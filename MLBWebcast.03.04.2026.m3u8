@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/0RKCCLYn/73496947f654.png" group-title="MLB EN VIVO",[MLB] Los Angeles Dodgers vs Washington Nationals | April 03 2026 | 10:05 AM (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/DPtKq4sx/476460dcaa59.png" group-title="MLB EN VIVO",[MLB] Los Angeles Dodgers vs Washington Nationals | April 03 2026 | 10:05 AM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi_iIpQtht4Cba_T00JvnsZXFt_MNO-XeK7D0lcs1QDer/112.m3u8?token=ZH1RbCuQqt08noI-zkEl9JCOz4Qa-botKuWLRO3IRTQ&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi_iIpQtht4Cba_T00JvnsZXFt_MNO-XeK7D0lcs1QDer%2F&expires=1775247942
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/112.m3u8

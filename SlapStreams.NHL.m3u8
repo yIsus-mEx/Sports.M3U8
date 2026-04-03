@@ -1,49 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/XxwQ4CSh/6ff7421799cc.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/YBrn00Mj/0465188816b6.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi5y38hwpYZMZi3wGt39wG1ntqRSpJ73yAVUPuEnVzmGu/172.m3u8?token=C-NDIh1NB8iSCoCejrRz0_2Y_jaWW94d0Z7unpd0yMw&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi5y38hwpYZMZi3wGt39wG1ntqRSpJ73yAVUPuEnVzmGu%2F&expires=1775248681
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/172.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/XxwQ4CSh/6ff7421799cc.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/YBrn00Mj/0465188816b6.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi5JVm-WPCKXnvLKBGUXB6xasP6WjZnj6mvhrCqoQnyBF/173.m3u8?token=X-q7eBmROq2xtvdL35rbI6UiUss5r8IqcD6oEatXqZ4&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi5JVm-WPCKXnvLKBGUXB6xasP6WjZnj6mvhrCqoQnyBF%2F&expires=1775248687
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/173.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/XxwQ4CSh/6ff7421799cc.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/YBrn00Mj/0465188816b6.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/uyopzarf50.m3u8?st=Dpb-KUs3ZQjKk29pP2a0aeLIFJbpF1RIuIc0rXrUls0&e=1775245094
+https://mainstreams.pro/hls/uyopzarf50.m3u8?st=TK8cbZyRxNRvpYtShwE1FmzdX0PgN65NNAQt3s_4oRU&e=1775256940
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/XxwQ4CSh/6ff7421799cc.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/YBrn00Mj/0465188816b6.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/uyopzarf50.m3u8?st=C582FPepTGOHsx-sIWKcm3nLsFMfKZ_q5k-ECLesYH0&e=1775245100
+https://mainstreams.pro/hls/uyopzarf50.m3u8?st=4E88URBqZPOYQVQm6ou5zZywLXrEpI6chciDuOUUA8k&e=1775256945
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/yBP9f8GX/ddd94e4f0700.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/9RVGMGX/6ec676e43ffd.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi_oW60c9TFQcJ4BFnm-WCaEm4PSJgLPxiNqlo0dWD-tN/90.m3u8?token=cqnCdCzpio8JEyLRMmo6oNUd2eyRtuQ2zvDrUy4L0sc&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi_oW60c9TFQcJ4BFnm-WCaEm4PSJgLPxiNqlo0dWD-tN%2F&expires=1775248709
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/90.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/yBP9f8GX/ddd94e4f0700.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/9RVGMGX/6ec676e43ffd.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7giwQVINY2FIFA-cNbgFeYb6BE7aFSQchgdXc12_SrV7lo/86.m3u8?token=opZybB64PU2MtM3uqeNBOTWJ3xrJOuAEDlxwY4KyJgo&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7giwQVINY2FIFA-cNbgFeYb6BE7aFSQchgdXc12_SrV7lo%2F&expires=1775248716
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/86.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/yBP9f8GX/ddd94e4f0700.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/9RVGMGX/6ec676e43ffd.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=yyOV-KKS1WqfWq_gtL7O_f48ckYvNC7VtFYMF95lRZY&e=1775245122
+https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=_WsqFq1YlSDEa_b8cQZn0N1KqpVZCl1R8UfZnVoFqvQ&e=1775256967
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/yBP9f8GX/ddd94e4f0700.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/9RVGMGX/6ec676e43ffd.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=AT8A2e7IhY8pvEGAru-QwyYsWauKLu93WlpExMqK_Xw&e=1775245128
+https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=AO6xV3lcrlB9tfIjwl9KyAM_wgqwSiZs-NegIGifeJY&e=1775256973
