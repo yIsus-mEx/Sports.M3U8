@@ -1,331 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/TxH2TCdN/45ed5ed9b6b1.png" group-title="NHL EN VIVO",[NHL] Buffalo Sabres vs Ottawa Senators | April 03 2026 | 4:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/XxwQ4CSh/6ff7421799cc.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi1U_vcXZoZIVJYZUm4fWnZgO6QIX8jHN202OkYHx3zoY/102.m3u8?token=a6AIaLnQ_DopRghKgXyWsS6UDNQ6lUUhfWv27Q99vL4&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi1U_vcXZoZIVJYZUm4fWnZgO6QIX8jHN202OkYHx3zoY%2F&expires=1775219775
+https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi5y38hwpYZMZi3wGt39wG1ntqRSpJ73yAVUPuEnVzmGu/172.m3u8?token=C-NDIh1NB8iSCoCejrRz0_2Y_jaWW94d0Z7unpd0yMw&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi5y38hwpYZMZi3wGt39wG1ntqRSpJ73yAVUPuEnVzmGu%2F&expires=1775248681
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/TxH2TCdN/45ed5ed9b6b1.png" group-title="NHL EN VIVO",[NHL] Buffalo Sabres vs Ottawa Senators | April 03 2026 | 4:00 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/XxwQ4CSh/6ff7421799cc.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi0WVun2jm9dnIx_ywZiLDuQZuMY0xgpJssMUC7a-yzLZ/101.m3u8?token=WCTM0RPKL5OOmRIT7DgQhXBFGLGN3BjcY0-0nnOeWp0&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi0WVun2jm9dnIx_ywZiLDuQZuMY0xgpJssMUC7a-yzLZ%2F&expires=1775219782
+https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi5JVm-WPCKXnvLKBGUXB6xasP6WjZnj6mvhrCqoQnyBF/173.m3u8?token=X-q7eBmROq2xtvdL35rbI6UiUss5r8IqcD6oEatXqZ4&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi5JVm-WPCKXnvLKBGUXB6xasP6WjZnj6mvhrCqoQnyBF%2F&expires=1775248687
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/TxH2TCdN/45ed5ed9b6b1.png" group-title="NHL EN VIVO",[NHL] Buffalo Sabres vs Ottawa Senators | April 03 2026 | 4:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/XxwQ4CSh/6ff7421799cc.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/uyopzarf50.m3u8?st=hrq5vTpUlWagZoWApybGbczMlxizefNUR_UrGX5aD7Y&e=1775216188
+https://mainstreams.pro/hls/uyopzarf50.m3u8?st=Dpb-KUs3ZQjKk29pP2a0aeLIFJbpF1RIuIc0rXrUls0&e=1775245094
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/5x9yqVmm/128ab88c2dc9.png" group-title="NHL EN VIVO",[NHL] Pittsburgh Penguins vs Tampa Bay Lightning | April 03 2026 | 4:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/XxwQ4CSh/6ff7421799cc.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs New York Islanders | April 03 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi9RvagQWjlhKngfyMDGEu-cPnvJ1QB4IBYexc5YW6Le-/171.m3u8?token=lgKQJwa768MJKHgVAMf4ZAODq9gDB2Wbsk6zeFSj33c&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi9RvagQWjlhKngfyMDGEu-cPnvJ1QB4IBYexc5YW6Le-%2F&expires=1775219804
+https://mainstreams.pro/hls/uyopzarf50.m3u8?st=C582FPepTGOHsx-sIWKcm3nLsFMfKZ_q5k-ECLesYH0&e=1775245100
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/5x9yqVmm/128ab88c2dc9.png" group-title="NHL EN VIVO",[NHL] Pittsburgh Penguins vs Tampa Bay Lightning | April 03 2026 | 4:00 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/yBP9f8GX/ddd94e4f0700.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi6EArjPfBaJn01AVi06D2anc3rchLiAllQZzKrwsZotO/99.m3u8?token=8ildvnRYOhaAc6y2gTmWyuxYN8sjXZP00r2jfCsQmwQ&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi6EArjPfBaJn01AVi06D2anc3rchLiAllQZzKrwsZotO%2F&expires=1775219810
+https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi_oW60c9TFQcJ4BFnm-WCaEm4PSJgLPxiNqlo0dWD-tN/90.m3u8?token=cqnCdCzpio8JEyLRMmo6oNUd2eyRtuQ2zvDrUy4L0sc&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi_oW60c9TFQcJ4BFnm-WCaEm4PSJgLPxiNqlo0dWD-tN%2F&expires=1775248709
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/5x9yqVmm/128ab88c2dc9.png" group-title="NHL EN VIVO",[NHL] Pittsburgh Penguins vs Tampa Bay Lightning | April 03 2026 | 4:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/yBP9f8GX/ddd94e4f0700.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=3A_D16BvjqL2NtgWOZV2ANhr-0k_fjWl9t009yoeBC8&e=1775216216
+https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7giwQVINY2FIFA-cNbgFeYb6BE7aFSQchgdXc12_SrV7lo/86.m3u8?token=opZybB64PU2MtM3uqeNBOTWJ3xrJOuAEDlxwY4KyJgo&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7giwQVINY2FIFA-cNbgFeYb6BE7aFSQchgdXc12_SrV7lo%2F&expires=1775248716
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/5x9yqVmm/128ab88c2dc9.png" group-title="NHL EN VIVO",[NHL] Pittsburgh Penguins vs Tampa Bay Lightning | April 03 2026 | 4:00 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/yBP9f8GX/ddd94e4f0700.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL2/index.m3u8?st=FrrOkbyRv3J802D9_rWKVw&e=1775216224
+https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=yyOV-KKS1WqfWq_gtL7O_f48ckYvNC7VtFYMF95lRZY&e=1775245122
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/4wy94rzD/776f4eed3afd.png" group-title="NHL EN VIVO",[NHL] Boston Bruins vs Florida Panthers | April 03 2026 | 4:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/yBP9f8GX/ddd94e4f0700.png" group-title="NHL EN VIVO",[NHL] St. Louis Blues vs Anaheim Ducks | April 03 2026 | 7:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi6JUQ5zeDV0xmHjytmhCq8RN2TOLyOF_MlTHTEeTzgvL/170.m3u8?token=iPuFQ9h7aVrgKVTau-vqAiwRCrEnp-SRrZQN2vZOK9o&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi6JUQ5zeDV0xmHjytmhCq8RN2TOLyOF_MlTHTEeTzgvL%2F&expires=1775219835
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/4wy94rzD/776f4eed3afd.png" group-title="NHL EN VIVO",[NHL] Boston Bruins vs Florida Panthers | April 03 2026 | 4:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi4YMZXGeaZg-BWvKrcOVpcWYJrdYupu-f828vyjW4HrI/168.m3u8?token=_6YxoKRPDcvaWrtI_f6QBU_j3oCSk4pPE15PEVRwUuI&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi4YMZXGeaZg-BWvKrcOVpcWYJrdYupu-f828vyjW4HrI%2F&expires=1775219841
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/4wy94rzD/776f4eed3afd.png" group-title="NHL EN VIVO",[NHL] Boston Bruins vs Florida Panthers | April 03 2026 | 4:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=M-oNZnpMUfDeE4N6OqmwaQqJwS6KKfG49YRr5INYeu0&e=1775216248
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/4wy94rzD/776f4eed3afd.png" group-title="NHL EN VIVO",[NHL] Boston Bruins vs Florida Panthers | April 03 2026 | 4:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL3/index.m3u8?st=y773PGY-aDufFjtTDAARBA&e=1775216255
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/4gTq8s7R/86a21720a591.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs New York Rangers | April 03 2026 | 4:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7giyRAU4jZ3NsdC60O6zh1GuOwdoTP5TNEHwXGOdTtWfew/175.m3u8?token=Rqz645t8cSFKaSGzBMMjCyjHWV1Rlqt_Hbf7IuO8gd0&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7giyRAU4jZ3NsdC60O6zh1GuOwdoTP5TNEHwXGOdTtWfew%2F&expires=1775219864
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/4gTq8s7R/86a21720a591.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs New York Rangers | April 03 2026 | 4:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi61qb0PqbU7e0WcpBzlqrU7tdGMN8w2vPjYglGZTPjT1/87.m3u8?token=V9eQjahXIymkLR7hziSYmB7nF2EiAO0KkSoyN7WAuAs&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi61qb0PqbU7e0WcpBzlqrU7tdGMN8w2vPjYglGZTPjT1%2F&expires=1775219870
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/4gTq8s7R/86a21720a591.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs New York Rangers | April 03 2026 | 4:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=ALCE6PMW9DxTcNiJ1cTZdPeyfeRIzWjDw273B7ATgcw&e=1775216276
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/4gTq8s7R/86a21720a591.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs New York Rangers | April 03 2026 | 4:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=cVDAQv3QRvnnxsBxdFTmexTwB-B3gBUyOI4kruO_zlI&e=1775216282
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/LzFbC0QG/c1a66f973c7f.png" group-title="NHL EN VIVO",[NHL] Detroit Red Wings vs Philadelphia Flyers | April 03 2026 | 4:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi5JVm-WPCKXnvLKBGUXB6xasP6WjZnj6mvhrCqoQnyBF/173.m3u8?token=DJ_x_9MgLHWXRuBbBpwnWwOGYZVM3N5hqpvBqxBsNfA&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi5JVm-WPCKXnvLKBGUXB6xasP6WjZnj6mvhrCqoQnyBF%2F&expires=1775219892
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/LzFbC0QG/c1a66f973c7f.png" group-title="NHL EN VIVO",[NHL] Detroit Red Wings vs Philadelphia Flyers | April 03 2026 | 4:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7giwxQyWmIYiigLdVT3mxOYI7m-OqGl5foPbgi7mAVdYow/178.m3u8?token=JmpWeolnk_4r_-pc7mpdK-KqrhZOzRXz2wpgBPlai2Y&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7giwxQyWmIYiigLdVT3mxOYI7m-OqGl5foPbgi7mAVdYow%2F&expires=1775219898
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/LzFbC0QG/c1a66f973c7f.png" group-title="NHL EN VIVO",[NHL] Detroit Red Wings vs Philadelphia Flyers | April 03 2026 | 4:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/bnvcxwhfg54.m3u8?st=XDbwHvXI72oF8f3my7IflNT-A1mAJGG5FmtFsNrJL60&e=1775216304
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/LzFbC0QG/c1a66f973c7f.png" group-title="NHL EN VIVO",[NHL] Detroit Red Wings vs Philadelphia Flyers | April 03 2026 | 4:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL5/index.m3u8?st=yx2j8ItmrnAShzME93gDVQ&e=1775216312
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/GfgvMMdT/c6fbc75f4263.png" group-title="NHL EN VIVO",[NHL] Columbus Blue Jackets vs Carolina Hurricanes | April 03 2026 | 4:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi-F_A3yaAav7c6xD_nyP7sGUJTvsTrHvqbadJ4YMfN0M/92.m3u8?token=WVMDZTuvvFnRJiYUTRM3kFLzXmzW8JBYPKV6YKtB-jI&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi-F_A3yaAav7c6xD_nyP7sGUJTvsTrHvqbadJ4YMfN0M%2F&expires=1775219920
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/GfgvMMdT/c6fbc75f4263.png" group-title="NHL EN VIVO",[NHL] Columbus Blue Jackets vs Carolina Hurricanes | April 03 2026 | 4:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi8YgkMi9bz5g2SAe7d_NPkoWh9nfCp-7SKOostJjsDAZ/93.m3u8?token=P9r2B5DnuRUiZsai9jQQDi41EtQgk9KqsA2RAGomNZw&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi8YgkMi9bz5g2SAe7d_NPkoWh9nfCp-7SKOostJjsDAZ%2F&expires=1775219926
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/GfgvMMdT/c6fbc75f4263.png" group-title="NHL EN VIVO",[NHL] Columbus Blue Jackets vs Carolina Hurricanes | April 03 2026 | 4:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/sdezqfza55.m3u8?st=7GIAeroH9UCd1snZwsCuEQoOmhGGkg1t0lYN5FD1MiY&e=1775216333
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/GfgvMMdT/c6fbc75f4263.png" group-title="NHL EN VIVO",[NHL] Columbus Blue Jackets vs Carolina Hurricanes | April 03 2026 | 4:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL6/index.m3u8?st=rOCJpufxzImbP_w0WL1sEA&e=1775216340
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/sdYymyxb/76178029391a.png" group-title="NHL EN VIVO",[NHL] Washington Capitals vs New Jersey Devils | April 03 2026 | 4:30 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi_QZntPJeLkpJZ1mEGUjJpk5hM9CwiNjq4C86jOap2zM/174.m3u8?token=rPEBH16hZQd9ncvutMg3K49veLb_5sa-yxZHdoXREgY&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi_QZntPJeLkpJZ1mEGUjJpk5hM9CwiNjq4C86jOap2zM%2F&expires=1775219948
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/sdYymyxb/76178029391a.png" group-title="NHL EN VIVO",[NHL] Washington Capitals vs New Jersey Devils | April 03 2026 | 4:30 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7giz39QSFJWCxEFDoGqvePipxK7t0qOotw9OI05bnAD_hC/169.m3u8?token=UQrFWF8_2Y4NerG-mnIBk2QcSAWgfB6UVASDMZMFNwc&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7giz39QSFJWCxEFDoGqvePipxK7t0qOotw9OI05bnAD_hC%2F&expires=1775219954
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/sdYymyxb/76178029391a.png" group-title="NHL EN VIVO",[NHL] Washington Capitals vs New Jersey Devils | April 03 2026 | 4:30 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/poiryezafv56.m3u8?st=2kiLGjBloYeQHwiOZ7kM6CklJ722iKPZ5xvX6OYA7tA&e=1775216361
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/sdYymyxb/76178029391a.png" group-title="NHL EN VIVO",[NHL] Washington Capitals vs New Jersey Devils | April 03 2026 | 4:30 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL7/index.m3u8?st=c8hrjkiAmEoNOD8U9EGLYw&e=1775216368
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/SDvs5bHg/65a9d5a08a34.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Dallas Stars | April 03 2026 | 5:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi23D_islERrNjFRADCbk_DC05SuWYtTORe1FDFMDFiiW/104.m3u8?token=9er7b5PCAkF8PAIUhGuc3lmtuR3kqtZLZCJy18RZboc&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi23D_islERrNjFRADCbk_DC05SuWYtTORe1FDFMDFiiW%2F&expires=1775219976
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/SDvs5bHg/65a9d5a08a34.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Dallas Stars | April 03 2026 | 5:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi5xCmpQF4pNd412Lv56JpvEmAH5E38vP5uqJ41VdisC4/94.m3u8?token=pKZqGOhGouE-6RcRbT9QgivTh_xfXh2HaZb7SDWmikU&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi5xCmpQF4pNd412Lv56JpvEmAH5E38vP5uqJ41VdisC4%2F&expires=1775219982
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/SDvs5bHg/65a9d5a08a34.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Dallas Stars | April 03 2026 | 5:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/rzavbdyua57.m3u8?st=5cRsIcKXstICyftaKmiGqONRzVBtDi8jo5be_I0J3kQ&e=1775216389
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/SDvs5bHg/65a9d5a08a34.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Dallas Stars | April 03 2026 | 5:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL8/index.m3u8?st=y23n8XQ4Lcl14FgfMd8agA&e=1775216396
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/xqhQBqRy/f0366f9c3f4f.png" group-title="NHL EN VIVO",[NHL] Vancouver Canucks vs Minnesota Wild | April 03 2026 | 5:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi72cDToWS5HmH5yFXFZ_7xgME9DfCoI3-S4iZ3HyyTz9/105.m3u8?token=WgbrJDjDDb5rzUrbXJMgAJlWsP9MeDxJsqQwa_2NuT4&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi72cDToWS5HmH5yFXFZ_7xgME9DfCoI3-S4iZ3HyyTz9%2F&expires=1775220004
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/xqhQBqRy/f0366f9c3f4f.png" group-title="NHL EN VIVO",[NHL] Vancouver Canucks vs Minnesota Wild | April 03 2026 | 5:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi-69iF0MNRpi0Nh_f2nqz1YFAWCEx5cXZ5S3EVPDayDh/88.m3u8?token=deP-DPhk1Dh7r-mFqcc4wqSOx6q1GRMyamENSTyQAKU&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi-69iF0MNRpi0Nh_f2nqz1YFAWCEx5cXZ5S3EVPDayDh%2F&expires=1775220011
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/xqhQBqRy/f0366f9c3f4f.png" group-title="NHL EN VIVO",[NHL] Vancouver Canucks vs Minnesota Wild | April 03 2026 | 5:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/earzfddshg58.m3u8?st=kTYH-NHWCiF2KqSNX3F3vXuKEXUUyryfm_2-yvKIOS0&e=1775216417
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/xqhQBqRy/f0366f9c3f4f.png" group-title="NHL EN VIVO",[NHL] Vancouver Canucks vs Minnesota Wild | April 03 2026 | 5:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL9/index.m3u8?st=7QPT9CIDApvtghtZ-Hw2vg&e=1775216424
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/DH1Zv2Y5/f5b3f62fc48d.png" group-title="NHL EN VIVO",[NHL] Chicago Blackhawks vs Edmonton Oilers | April 03 2026 | 6:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi3zCHWeuqxab7XhTo5mFrrTw7CV4owJKDuD2l3j-mjao/98.m3u8?token=VZovhMB8NYdT6Ir5hl5VNB1MFo9Hq_-Sra5aApoJZ1I&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi3zCHWeuqxab7XhTo5mFrrTw7CV4owJKDuD2l3j-mjao%2F&expires=1775220033
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/DH1Zv2Y5/f5b3f62fc48d.png" group-title="NHL EN VIVO",[NHL] Chicago Blackhawks vs Edmonton Oilers | April 03 2026 | 6:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi63cSpDIJWf6L06jnlzceugZ7oglZQTzGqARaMzMWSoM/85.m3u8?token=SGB3lSfyIHnfi8m7FS2pzRWegObWaXcS_11fESTKS8k&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi63cSpDIJWf6L06jnlzceugZ7oglZQTzGqARaMzMWSoM%2F&expires=1775220039
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/DH1Zv2Y5/f5b3f62fc48d.png" group-title="NHL EN VIVO",[NHL] Chicago Blackhawks vs Edmonton Oilers | April 03 2026 | 6:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/bvnzadfvyt59.m3u8?st=wXdmw6N40OqVpwuV8LBjR4gckr73YrKO5NFO6PfO1iU&e=1775216445
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/DH1Zv2Y5/f5b3f62fc48d.png" group-title="NHL EN VIVO",[NHL] Chicago Blackhawks vs Edmonton Oilers | April 03 2026 | 6:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL10/index.m3u8?st=zs2o4Ksz3hRbcnan5RqVrA&e=1775216452
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/LDx83M6R/d03a3e70c24e.png" group-title="NHL EN VIVO",[NHL] Calgary Flames vs Vegas Golden Knights | April 03 2026 | 7:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gix8gp6Yw8o1MKkt3-TkIwztcJXiMac01wD_eeGmPB1wn/96.m3u8?token=-QajZRplA31X0a7otyfCwetxX9f3LLjukfTIo6DPerE&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gix8gp6Yw8o1MKkt3-TkIwztcJXiMac01wD_eeGmPB1wn%2F&expires=1775220061
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/LDx83M6R/d03a3e70c24e.png" group-title="NHL EN VIVO",[NHL] Calgary Flames vs Vegas Golden Knights | April 03 2026 | 7:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi6GrZ5cQPRZr1xwZ4xKKMiSs8xzM-DGYuPwuI9jyuF00/91.m3u8?token=ZHu5LjJmVyYbIYKeBlvlltFp2ojuLeLIhfQ0Gh5TBw4&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi6GrZ5cQPRZr1xwZ4xKKMiSs8xzM-DGYuPwuI9jyuF00%2F&expires=1775220067
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/LDx83M6R/d03a3e70c24e.png" group-title="NHL EN VIVO",[NHL] Calgary Flames vs Vegas Golden Knights | April 03 2026 | 7:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/wxcgfaiiog63.m3u8?st=wuuBbzkVHhTz7qCNc1XoaoKSxPn7bFvHx4c8yZrpXk0&e=1775216473
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/LDx83M6R/d03a3e70c24e.png" group-title="NHL EN VIVO",[NHL] Calgary Flames vs Vegas Golden Knights | April 03 2026 | 7:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL11/index.m3u8?st=rH4EowoIRljm35yZrr6usQ&e=1775216480
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/8gGPSNvS/17b561956388.png" group-title="NHL EN VIVO",[NHL] Toronto Maple Leafs vs San Jose Sharks | April 03 2026 | 7:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi1xq-DKP-tq-6XEhM4PP_Kwel8rGkGdKUqVPQW6ZxmUF/103.m3u8?token=rc1f15lSG3NUhYkdnsEWk7WXrDfGYGfq6wqV-qSjbIw&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi1xq-DKP-tq-6XEhM4PP_Kwel8rGkGdKUqVPQW6ZxmUF%2F&expires=1775220089
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/8gGPSNvS/17b561956388.png" group-title="NHL EN VIVO",[NHL] Toronto Maple Leafs vs San Jose Sharks | April 03 2026 | 7:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gixj8WPjZKDgNF4PKSsMMpbNlrm9RTlRmMWBIj46v_lWw/167.m3u8?token=0kN2VWGKKA7z-BtqzWU7Mt_JAJw4FkXYI6E9GbSJLFU&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gixj8WPjZKDgNF4PKSsMMpbNlrm9RTlRmMWBIj46v_lWw%2F&expires=1775220095
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/8gGPSNvS/17b561956388.png" group-title="NHL EN VIVO",[NHL] Toronto Maple Leafs vs San Jose Sharks | April 03 2026 | 7:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/gfhfgsqda61.m3u8?st=djs5HSob_6yNiQZbAc3LERJA57btiyjB7qHVWHo-UEo&e=1775216501
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/8gGPSNvS/17b561956388.png" group-title="NHL EN VIVO",[NHL] Toronto Maple Leafs vs San Jose Sharks | April 03 2026 | 7:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL12/index.m3u8?st=IjQ3LnklGTidzQbG0NUa_w&e=1775216508
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/RT8McjdM/d3456c9111bf.png" group-title="NHL EN VIVO",[NHL] Utah Mammoth vs Seattle Kraken | April 03 2026 | 7:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7giy0IoHK1w9MASOYhVKGFBZ42nhgCnLoR4lRX4M7VEt6_/97.m3u8?token=OGQaVi1GEaZtegcN1KB2dXfIrMMW81Zb0DLihNIhRPw&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7giy0IoHK1w9MASOYhVKGFBZ42nhgCnLoR4lRX4M7VEt6_%2F&expires=1775220117
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/RT8McjdM/d3456c9111bf.png" group-title="NHL EN VIVO",[NHL] Utah Mammoth vs Seattle Kraken | April 03 2026 | 7:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi4yN7oMRT2eFgGMTtjF-kh6lPnTaw9BFI0_linOE39U2/89.m3u8?token=o-AM9ZKfYIwcXqQdE_5XHg8npNAUS4PuADH49L8HidI&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi4yN7oMRT2eFgGMTtjF-kh6lPnTaw9BFI0_linOE39U2%2F&expires=1775220123
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/RT8McjdM/d3456c9111bf.png" group-title="NHL EN VIVO",[NHL] Utah Mammoth vs Seattle Kraken | April 03 2026 | 7:00 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/wxdaztfhd62.m3u8?st=LnyWAwHu77qIizrhHQhG8pL_PVnR8gS0clH3r7KMB0E&e=1775216530
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/RT8McjdM/d3456c9111bf.png" group-title="NHL EN VIVO",[NHL] Utah Mammoth vs Seattle Kraken | April 03 2026 | 7:00 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL13/index.m3u8?st=3JRma_7EG6BWnHQWhlgwpA&e=1775216536
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/PG2mnZBg/1101cb1de64c.png" group-title="NHL EN VIVO",[NHL] Nashville Predators vs Los Angeles Kings | April 03 2026 | 7:30 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gixRsrDk2IfgzF4h0qDJG-fbCJGc9sU83EtOz9ke0jxXf/95.m3u8?token=2W7TLl9By_7H3_9ggyXnwNJzoVISgAaAcYCzXDFIYDA&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gixRsrDk2IfgzF4h0qDJG-fbCJGc9sU83EtOz9ke0jxXf%2F&expires=1775220145
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/PG2mnZBg/1101cb1de64c.png" group-title="NHL EN VIVO",[NHL] Nashville Predators vs Los Angeles Kings | April 03 2026 | 7:30 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-cdn.b-cdn.net/play/RJv68YiUQ5n0F6Il4U7gi80ffz0ZJqh64fHa3oTXozPpKyNklN40k5eOlQ41fVOn/100.m3u8?token=Q_906K4_P_R224o_UbKKwa5Lh9OpVy3A2_CARv9u8Bs&token_path=%2Fplay%2FRJv68YiUQ5n0F6Il4U7gi80ffz0ZJqh64fHa3oTXozPpKyNklN40k5eOlQ41fVOn%2F&expires=1775220151
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/PG2mnZBg/1101cb1de64c.png" group-title="NHL EN VIVO",[NHL] Nashville Predators vs Los Angeles Kings | April 03 2026 | 7:30 PM (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/wxdaztfhd62.m3u8?st=nKwB6pBwOWRxCw48M9r8QE_u9DOShHN4NfIu2ZefYcc&e=1775216557
-
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/PG2mnZBg/1101cb1de64c.png" group-title="NHL EN VIVO",[NHL] Nashville Predators vs Los Angeles Kings | April 03 2026 | 7:30 PM (AWAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL14/index.m3u8?st=73sCPeN5GoSaFUpONymV9A&e=1775216564
+https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=AT8A2e7IhY8pvEGAru-QwyYsWauKLu93WlpExMqK_Xw&e=1775245128
