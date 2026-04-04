@@ -4,28 +4,34 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://1bb.tlfiles.cfd/live/wilder/stream.m3u8?expires=1775328954&token=4ef66cd598dd6df9739a40cd8cec64cb72515a5c97a21d152e96d6778918a9ad
+https://tt1.ttfiles.cfd/live/wilder/stream.m3u8?expires=1775343159&token=8963ad9a86c0c7856c7b7bbf49785a6d038514a5900c104ac578e914fe53c6ff
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/xvpVWYx/220573f3559e.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] Washington Wizards vs Miami Heat | April 04 2026 | 15:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-title="Boxing EN VIVO",[Boxing] Tim Tszyu vs Denis Nurja | April 04 2026 | 21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://9bb.tlfiles.cfd/live/heat/stream.m3u8?expires=1775329120&token=e73bc7e5bb7632fa7fa9686a2fc5ada9c62c1a770118c4c5b5ae0ac8adcf5d20
+https://9bb.tlfiles.cfd/live/tim/stream.m3u8?expires=1775343272&token=05af40cd9898c5c5e6e6bec082433aaacddfee95eb4e6139d9e777dbe3e1739e
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/zhzWDMsY/98e4a6329e74.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] San Antonio Spurs vs Denver Nuggets | April 04 2026 | 15:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/zTyzwB3G/0137e2eea771.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] Washington Wizards vs Miami Heat | April 04 2026 | 15:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://9bb.tlfiles.cfd/live/spurs/stream.m3u8?expires=1775329119&token=2829925b0d5160c532010e3476ac8c94ae8edfdbace8bdc5e1d1d86f6d9407cf
+https://9bb.tlfiles.cfd/live/heat/stream.m3u8?expires=1775343269&token=c338ebd23a935ff77c61e5a6c6d6e706d2e3ab1b384ab25fb527457b7362b7e1
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/G4217CMt/77aea8aa1c8b.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] Detroit Pistons vs Philadelphia 76ers | April 04 2026 | 19:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/F4h5VbyD/2e48181a51a4.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] San Antonio Spurs vs Denver Nuggets | April 04 2026 | 15:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://9bb.tlfiles.cfd/live/76ers/stream.m3u8?expires=1775329119&token=e6666615976d3db1bb8e8f397ec0c67f4619d0bec198e425339c8d9d6012eaf2
+https://9bb.tlfiles.cfd/live/spurs/stream.m3u8?expires=1775343182&token=17daced9c0f34e8bda639692bd42a5167c1a2ab72ee05533da32f1b64c6ff429
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/chgpFQg1/f7456e5dd9a8.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] Detroit Pistons vs Philadelphia 76ers | April 04 2026 | 19:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://9bb.tlfiles.cfd/live/76ers/stream.m3u8?expires=1775343183&token=7fe7ca7a9a793b0d2e01cf00ca3360e1f06400f9a253fab0bcce27e9ac85e4fb
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/wBGMpYBF/UFC.png" group-logo="https://i.postimg.cc/wBGMpYBF/UFC.png" group-title="UFC EN VIVO",[UFC] UFC Fight Night: Moicano vs Duncan | April 04 2026 | 19:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://5bb.tlfiles.cfd/live/ufc/stream.m3u8?expires=1775329114&token=c188206fce303cc2f64872871bc50d5f7eaaabfbf488cd57be5e509cb2526854
+https://5bb.tlfiles.cfd/live/ufc/stream.m3u8?expires=1775343163&token=731dd0d47758fecd4bbbd90f65947a180e8a75f1b2f10ef5447c66cdfad58c52
