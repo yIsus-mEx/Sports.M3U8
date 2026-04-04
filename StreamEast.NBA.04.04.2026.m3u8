@@ -1,1 +1,19 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/gZLbFLS2/550e0e7801d5.png" group-title="NBA EN VIVO",[NBA] Washington Wizards vs Miami Heat | April 04 2026 | 12:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://darmasaki888.s3.us-east-1.amazonaws.com/heat.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/CK0hyX8T/b511c877fbbc.png" group-title="NBA EN VIVO",[NBA] San Antonio Spurs vs Denver Nuggets | April 04 2026 | 12:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://darmasaki888.s3.us-east-1.amazonaws.com/nuggets.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/fYwfmgVw/d243615269fb.png" group-title="NBA EN VIVO",[NBA] Detroit Pistons vs Philadelphia 76ers | April 04 2026 | 16:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://darmasaki888.s3.us-east-1.amazonaws.com/76ers.m3u8
