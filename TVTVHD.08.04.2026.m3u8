@@ -624,206 +624,560 @@ https://tvtvhd.com/vivo/canales.php?stream=espn3_nl
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/canales.php?stream=espn3_nl
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Liga Profesional: Argentinos Juniors vs Banfield | 22:00 | OP1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Liga Profesional: Argentinos Juniors vs Banfield | 22:00 | OP2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Liga Profesional: Argentinos Juniors vs Banfield | 22:00 | OP3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Liga Profesional: Argentinos Juniors vs Banfield | 22:00 | OP4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNA==
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/uruguay_e2b9597af8_6abda609fb.png" group-logo="https://cdn.pltvhd.com/uploads/uruguay_e2b9597af8_6abda609fb.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Segunda División: Miramar Misiones vs River Plate | 23:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNQ==
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] MLB: Toronto Blue Jays vs. Los Angeles Dodgers | 23:00 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Europa League: Sporting Braga vs Real Betis | 16:45 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] MLB: Toronto Blue Jays vs. Los Angeles Dodgers | 23:00 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Europa League: Sporting Braga vs Real Betis | 16:45 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] MLB: Toronto Blue Jays vs. Los Angeles Dodgers | 23:00 | OP3
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Europa League: Sporting Braga vs Real Betis | 16:45 | OP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] NBA: Atlanta Hawks vs New York Knicks | 23:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Europa League: Sporting Braga vs Real Betis | 16:45 | OP4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] NBA: Orlando Magic vs Detroit Pistons | 23:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Europa League: Sporting Braga vs Real Betis | 16:45 | OP5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjY=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10dWRu
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/conmebol_d03512952a_0a585d86af.png" group-logo="https://cdn.pltvhd.com/uploads/conmebol_d03512952a_0a585d86af.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Sudamericano Sub-17: Perú vs Brasil | 23:00 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Europa League: Sporting Braga vs Real Betis | 16:45 | OP6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/conmebol_d03512952a_0a585d86af.png" group-logo="https://cdn.pltvhd.com/uploads/conmebol_d03512952a_0a585d86af.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Sudamericano Sub-17: Perú vs Brasil | 23:00 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-logo="https://cdn.pltvhd.com/uploads/uefael_2b6c82aa64_3944ac820b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Europa League: Sporting Braga vs Real Betis | 16:45 | OP7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/conmebol_d03512952a_0a585d86af.png" group-logo="https://cdn.pltvhd.com/uploads/conmebol_d03512952a_0a585d86af.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Sudamericano Sub-17: Perú vs Brasil | 23:00 | OP3
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/pavo_980d87b7ad_8827bbb7ba.png" group-logo="https://cdn.pltvhd.com/uploads/pavo_980d87b7ad_8827bbb7ba.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Super Lig: Göztepe vs Galatasaray | 17:00 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1iZWluc3BvcnRlcw==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-logo="https://cdn.pltvhd.com/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Primera División: Sportivo Trinidense vs Rubio Ñú | 23:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/pavo_980d87b7ad_8827bbb7ba.png" group-logo="https://cdn.pltvhd.com/uploads/pavo_980d87b7ad_8827bbb7ba.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Super Lig: Göztepe vs Galatasaray | 17:00 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjQ=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXky
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] NBA: San Antonio Spurs vs Philadelphia 76ers | 00:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png" group-logo="https://cdn.pltvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Serie A: Libertad vs Mushuc Runa | 00:00 | OP1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png" group-logo="https://cdn.pltvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Serie A: Libertad vs Mushuc Runa | 00:00 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png" group-logo="https://cdn.pltvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Ecuador: U.d. Juvenil vs Daquilema | 17:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png" group-logo="https://cdn.pltvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Primera División: Huachipato vs Univ. Concepción | 00:00 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-logo="https://cdn.pltvhd.com/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Pro League: Al Hilal vs Al Kholood | 18:00 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png" group-logo="https://cdn.pltvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Primera División: Huachipato vs Univ. Concepción | 00:00 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-logo="https://cdn.pltvhd.com/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Pro League: Al Hilal vs Al Kholood | 18:00 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZWxpYnJlLmNvbS90di9jYW5hbC5waHA/c3RyZWFtPWV2ZW44
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] NBA: Memphis Grizzlies vs Cleveland Cavaliers | 00:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-logo="https://cdn.pltvhd.com/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Pro League: Al Hilal vs Al Kholood | 18:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-logo="https://cdn.pltvhd.com/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Pro League: Al Hilal vs Al Kholood | 18:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMyX3VzYQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: Barcelona vs Atlético Madrid | 19:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: Barcelona vs Atlético Madrid | 19:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: Barcelona vs Atlético Madrid | 19:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: Barcelona vs Atlético Madrid | 19:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: Barcelona vs Atlético Madrid | 19:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzcG9ydHMK
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: Barcelona vs Atlético Madrid | 19:00 | OP6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10dWRu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: Barcelona vs Atlético Madrid | 19:00 | OP7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: Barcelona vs Atlético Madrid | 19:00 | OP8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: Barcelona vs Atlético Madrid | 19:00 | OP9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT11bml2aXNpb24=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: PSG vs Liverpool | 19:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: PSG vs Liverpool | 19:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: PSG vs Liverpool | 19:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-logo="https://cdn.pltvhd.com/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] UEFA Champions League: PSG vs Liverpool | 19:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk0
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Sudamericana: Deportivo Riestra vs Palestino | 22:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Sudamericana: Deportivo Riestra vs Palestino | 22:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Sudamericana: Deportivo Riestra vs Palestino | 22:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Mirassol vs Lanús | 22:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Mirassol vs Lanús | 22:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Mirassol vs Lanús | 22:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Mirassol vs Lanús | 22:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzcG9ydHMK
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Mirassol vs Lanús | 22:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Sudamericana: Deportivo Cuenca vs Santos | 22:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Coquimbo Unido vs Nacional | 22:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Coquimbo Unido vs Nacional | 22:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Coquimbo Unido vs Nacional | 22:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Coquimbo Unido vs Nacional | 22:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzcG9ydHMy
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Coquimbo Unido vs Nacional | 22:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Sudamericana: Deportivo Recoleta vs San Lorenzo | 22:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] NBA: Orlando Magic vs Minnesota Timberwolves | 23:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Liga Profesional: Instituto vs Defensa y Justicia | 00:15 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] NBA: Cleveland Cavaliers vs Atlanta Hawks | 23:00 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHM=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNA==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Liga Profesional: Instituto vs Defensa y Justicia | 00:15 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] NBA: Cleveland Cavaliers vs Atlanta Hawks | 23:00 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHM=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNA==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Liga Profesional: Instituto vs Defensa y Justicia | 00:15 | OP3
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] NBA: Cleveland Cavaliers vs Atlanta Hawks | 23:00 | OP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHM=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG40
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Liga Profesional: Instituto vs Defensa y Justicia | 00:15 | OP4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNpbnRlcm5hY2lvbmFs
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Liga Profesional: Instituto vs Defensa y Justicia | 00:15 | OP5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNpbnRlcm5hY2lvbmFs
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Liga Profesional: Instituto vs Defensa y Justicia | 00:15 | OP6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR5Y2ludGVybmFjaW9uYWw=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] NBA: Denver Nugget vs Portland Trail Blazers | 01:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] NBA: Detroit Pistons vs Milwaukee Bucks | 23:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Categoría Primera A: Atlético Nacional vs Jaguares de Córdoba | 01:10 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png" group-logo="https://cdn.pltvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Serie A: Universidad Católica vs Emelec | 00:00 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Categoría Primera A: Atlético Nacional vs Jaguares de Córdoba | 01:10 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png" group-logo="https://cdn.pltvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Serie A: Universidad Católica vs Emelec | 00:00 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-logo="https://cdn.pltvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Categoría Primera A: Atlético Nacional vs Jaguares de Córdoba | 01:10 | OP3
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Sudamericana: Audax Italiano vs Olimpia | 00:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] MLB: Los Angeles Angels vs Atlanta Braves | 01:30 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Medellín vs Estudiantes | 00:00 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] MLB: Los Angeles Angels vs Atlanta Braves | 01:30 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Medellín vs Estudiantes | 00:00 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-logo="https://cdn.pltvhd.com/uploads/mlb_f5711cc440_dde64767e4.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] MLB: Los Angeles Angels vs Atlanta Braves | 01:30 | OP3
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Medellín vs Estudiantes | 00:00 | OP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/costa_rica_cb5e6c6746_67d705d4bb.png" group-logo="https://cdn.pltvhd.com/uploads/costa_rica_cb5e6c6746_67d705d4bb.png" group-title="🏆 Eventos (06 Apr 2026)",[TVHD] Primera División: Municipal Liberia vs San Carlos | 02:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Medellín vs Estudiantes | 00:00 | OP4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzcG9ydHMK
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Argentina: Sarmiento vs Tristán Suárez | 00:10 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Argentina: Sarmiento vs Tristán Suárez | 00:10 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-logo="https://cdn.pltvhd.com/uploads/argentina_2bd748026e_628913fc18.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Argentina: Sarmiento vs Tristán Suárez | 00:10 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Cusco vs Flamengo | 00:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Cusco vs Flamengo | 00:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Cusco vs Flamengo | 00:30 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG43
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Cusco vs Flamengo | 00:30 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzcG9ydHMy
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Cusco vs Flamengo | 00:30 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Junior vs Palmeiras | 00:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Junior vs Palmeiras | 00:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Junior vs Palmeiras | 00:30 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Junior vs Palmeiras | 00:30 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzcG9ydHMz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Sudamericana: Torque vs Grêmio | 00:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Sudamericana: Blooming vs River Plate | 00:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa de Campeones de la Concacaf: Tigres UANL vs Seattle Sounders FC | 01:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10dWRu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa de Campeones de la Concacaf: Tigres UANL vs Seattle Sounders FC | 01:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa de Campeones de la Concacaf: Tigres UANL vs Seattle Sounders FC | 01:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa de Campeones de la Concacaf: Tigres UANL vs Seattle Sounders FC | 01:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT11bmltYXM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa de Campeones de la Concacaf: Tigres UANL vs Seattle Sounders FC | 01:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMyX3VzYQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] NBA: Denver Nuggets vs Memphis Grizzlies | 01:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] NBA: San Antonio Spurs vs Portland Trail Blazers | 01:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] NBA: San Antonio Spurs vs Portland Trail Blazers | 01:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] NBA: San Antonio Spurs vs Portland Trail Blazers | 01:30 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG40
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/honduras_754919ea25_d66393ecc3.png" group-logo="https://cdn.pltvhd.com/uploads/honduras_754919ea25_d66393ecc3.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Liga Nacional: Olimpia vs Victoria | 01:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/honduras_754919ea25_d66393ecc3.png" group-logo="https://cdn.pltvhd.com/uploads/honduras_754919ea25_d66393ecc3.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Liga Nacional: Olimpia vs Victoria | 01:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/honduras_754919ea25_d66393ecc3.png" group-logo="https://cdn.pltvhd.com/uploads/honduras_754919ea25_d66393ecc3.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Liga Nacional: Olimpia vs Victoria | 01:30 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] NBA: Los Angeles Clippers vs Oklahoma City Thunder | 02:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Sporting Cristal vs Cerro Porteño | 02:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Sporting Cristal vs Cerro Porteño | 02:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Sporting Cristal vs Cerro Porteño | 02:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Sporting Cristal vs Cerro Porteño | 02:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzcG9ydHMK
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Sporting Cristal vs Cerro Porteño | 02:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-logo="https://cdn.pltvhd.com/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Libertadores: Sporting Cristal vs Cerro Porteño | 02:00 | OP6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1iZWluc3BvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-logo="https://cdn.pltvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa Sudamericana: Academia Puerto Cabello vs Atlético Mineiro | 02:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-logo="https://cdn.pltvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] NBA: Phoenix Suns vs Dallas Mavericks | 02:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjU=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa de Campeones de la Concacaf: Toluca vs LA Galaxy | 03:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10dWRu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa de Campeones de la Concacaf: Toluca vs LA Galaxy | 03:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa de Campeones de la Concacaf: Toluca vs LA Galaxy | 03:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-logo="https://cdn.pltvhd.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png" group-title="🏆 Eventos (08 Apr 2026)",[TVHD] Copa de Campeones de la Concacaf: Toluca vs LA Galaxy | 03:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT11bmltYXM=
