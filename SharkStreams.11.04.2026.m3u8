@@ -4,118 +4,124 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://tt1.ttfiles.cfd/live/fury/stream.m3u8?expires=1775926133&token=1edd1230904c63558691878fa79a83cfab45674f3dd5227644c15f58e0926470
+https://tt1.ttfiles.cfd/live/fury/stream.m3u8?expires=1775927136&token=9150dc2d9c4658d98f94a00c6b33003013b7335887ae7a5a158ba8c8488855e3
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-title="Boxing EN VIVO",[Boxing] Night of Champions X: Brandon Adams vs Caoimhin Agyarko | April 11 2026 | 21:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://tt7.ttfiles.cfd/live/champions/stream.m3u8?expires=1775927980&token=6249b837b673cc8daa18aa839b56afc446a609cc9853a356205187d3e804b14d
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-title="Boxing EN VIVO",[Boxing] BKFC:Maki Pitolo vs Harry Coltrane | April 11 2026 | 23:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://tt8.ttfiles.cfd/live/bkfc/stream.m3u8?expires=1775926805&token=20025249696ab1b2d5e13eb27829b6a889f553924154add5c6ac13626423402a
+https://tt8.ttfiles.cfd/live/bkfc/stream.m3u8?expires=1775932479&token=9110bec2dbc6927a0808620c83086b1f91c97a8a072749fc14a2e3f5cfdf9b95
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Arizona Diamondbacks vs Philadelphia Phillies | April 11 2026 | 13:05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb1.ttfiles.cfd/live/zona/stream.m3u8?expires=1775925926&token=e433b2edc0d39c6c947fe72d344cd01ec736f16507c7c9876fbd5ceb6a507d0d
+https://rb1.ttfiles.cfd/live/zona/stream.m3u8?expires=1775927157&token=770e45b2c89dc1aeaef670a501c8dde36b9b1bc63af98ea676ca585117d129bd
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Miami Marlins vs Detroit Tigers | April 11 2026 | 13:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb1.ttfiles.cfd/live/marlin/stream.m3u8?expires=1775926784&token=429bdc079b77f126e9e0c49c652f062969bd50cd94b93c1ee71bea14aa9b6559
+https://rb1.ttfiles.cfd/live/marlin/stream.m3u8?expires=1775927916&token=0e1393f215b394b26e63398710b1e92c5970ea2454279a2c81bf0e9698ab4921
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Pittsburgh Pirates vs Chicago Cubs | April 11 2026 | 14:20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb1.ttfiles.cfd/live/pitts/stream.m3u8?expires=1775926786&token=c77a17a24a91369f7fe8c33ec178ee174cf5f0763326d273a9dd43ae4e8d534b
+https://rb1.ttfiles.cfd/live/pitts/stream.m3u8?expires=1775931391&token=82300aeef52373111f91dd1e87440839c81991d903b9dac2f42653c31d1bd740
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Minnesota Twins vs Toronto Blue Jays | April 11 2026 | 15:07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb2.ttfiles.cfd/live/twinns/stream.m3u8?expires=1775926787&token=72f30108c1498d46b55d1a1635e94b280cfff648205932b60acfdcec45a4569d
+https://rb2.ttfiles.cfd/live/twinns/stream.m3u8?expires=1775932592&token=8f21f217b108c6bf7007f4e6a912302b92068a200e0b26e9e60ec94705901a10
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Chicago White Sox vs Kansas City Royals | April 11 2026 | 16:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb2.ttfiles.cfd/live/chicago/stream.m3u8?expires=1775926789&token=bd752dc54add397b81974d75ce9153f64100e4075d4d233ddb3abce14dba8d7e
+https://rb2.ttfiles.cfd/live/chicago/stream.m3u8?expires=1775933838&token=6968c80c83e896406059f223e0561a467dc6ef94a63d5d5720d37300a3c5c8ae
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Athletics vs New York Mets | April 11 2026 | 16:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb2.ttfiles.cfd/live/athle/stream.m3u8?expires=1775926790&token=36d059f6b7d3970688cb2088f27280e532f31c32198b324c1a83b01607913485
+https://rb2.ttfiles.cfd/live/athle/stream.m3u8?expires=1775927985&token=323f370bbd5d67a604a3809ac82ef968360a327fdbf531008bc2ecfd15552b92
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Los Angeles Angels vs Cincinnati Reds | April 11 2026 | 16:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb3.ttfiles.cfd/live/loss/stream.m3u8?expires=1775926791&token=7a81bd29bdc506d70872d480a3e5a82f4e68b4f5c89bea805530d7dc69bab5a1
+https://rb3.ttfiles.cfd/live/loss/stream.m3u8?expires=1775930138&token=3dd290ea629f5bbe821fc2397c1022534f55b82fdaebd898efc091c76f5f07fb
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] New York Yankees vs Tampa Bay Rays | April 11 2026 | 18:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb3.ttfiles.cfd/live/yankeee/stream.m3u8?expires=1775926794&token=90e6243e0bc0cbd4f6ec3a134180e7f0b7987c2ccb0143e6101d9aa6024caf65
+https://rb3.ttfiles.cfd/live/yankeee/stream.m3u8?expires=1775934670&token=03b9c4c0da49ca2f217f4979e9b62dfc56a3590d764a476a9ce4cf5585cbaf85
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Washington Nationals vs Milwaukee Brewers | April 11 2026 | 19:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb3.ttfiles.cfd/live/milleauk/stream.m3u8?expires=1775926795&token=ba9391c7d512a05d5a77c86fd8f9ff26cc47198689eb74959ed7c54cf8baf00d
+https://rb3.ttfiles.cfd/live/milleauk/stream.m3u8?expires=1775927914&token=1f7050c87002087971631cb417b7011a77b3f4aba8a8fc44da9416ff200ab8f2
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] San Francisco Giants vs Baltimore Orioles | April 11 2026 | 19:15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb4.ttfiles.cfd/live/giants/stream.m3u8?expires=1775926797&token=ace4c328e202b8c40898b0f2bda0766818d1907bb1741d0870f658ca5513a210
+https://rb4.ttfiles.cfd/live/giants/stream.m3u8?expires=1775927986&token=da1750b91ef0353064bcbb3ae6e45c951e3b04284e1d327a509a5cdf0bec9146
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Boston Red Sox vs St. Louis Cardinals | April 11 2026 | 19:15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb4.ttfiles.cfd/live/redsox/stream.m3u8?expires=1775926798&token=888a7128886dc323d370b4cc6a023958c149493dc2ce38e1bce90a0c1e5ffaa8
+https://rb4.ttfiles.cfd/live/redsox/stream.m3u8?expires=1775934341&token=d00a8eda28282e95f8484cbda108d6ee99f16e08069be9d7548155515fd25de2
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Cleveland Guardians vs Atlanta Braves | April 11 2026 | 19:15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb4.ttfiles.cfd/live/clevelan/stream.m3u8?expires=1775926800&token=8a46d007acdc36899fd7c2bdebe58015db776003028b2f2e130a7d3f18d42d83
+https://rb4.ttfiles.cfd/live/clevelan/stream.m3u8?expires=1775930855&token=3a6bbd14ae30e339aa5461086b89f5fc53b12c9d534fd9afb046f188c1cb4ed6
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Colorado Rockies vs San Diego Padres | April 11 2026 | 20:40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb5.ttfiles.cfd/live/sandiego/stream.m3u8?expires=1775926801&token=b1837050de4d273eb09b8bdd8ef44c3daabbbc55b24029a3d12f03ac263f3eb8
+https://rb5.ttfiles.cfd/live/sandiego/stream.m3u8?expires=1775930163&token=c61efc868abaa68e7d95f7362007cde4870ca129c1e41192cd1c2b4931e13bb6
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Texas Rangers vs Los Angeles Dodgers | April 11 2026 | 21:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb5.ttfiles.cfd/live/rangerss/stream.m3u8?expires=1775926803&token=681c87b5c504616bc2d0aa4bdaf210e03188e70a2a157084a4dd0129b9d6211a
+https://rb5.ttfiles.cfd/live/rangerss/stream.m3u8?expires=1775929395&token=ce9ad02a30f26eece8e49d08e5fc6eb2073bac95fad900408bf7db44d8f931dc
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Seattle Mariners | April 11 2026 | 21:40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://rb5.ttfiles.cfd/live/houstens/stream.m3u8?expires=1775926804&token=a8ee4757fa8ed88231326a61381fc2a1e1c1b68beb245edab4b3483142c9bb86
+https://rb5.ttfiles.cfd/live/houstens/stream.m3u8?expires=1775927979&token=74e5860a2ef56186947c36d0c4598dc3e3edef2c72478a0a100b1cfe517659de
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/Hx6Jj83W/MMA.png" group-logo="https://i.postimg.cc/Hx6Jj83W/MMA.png" group-title="MMA EN VIVO",[MMA] Cage Warriors 204: Nuzzi vs Silva | April 11 2026 | 12:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://tt8.ttfiles.cfd/live/cage/stream.m3u8?expires=1775926783&token=6d1471a093fcccbd8b8397d9dabebaab7761c5caeec63064cd21bbaa98cf48cf
+https://tt8.ttfiles.cfd/live/cage/stream.m3u8?expires=1775927819&token=4ee40a35939e33202cb16df436c64aecf9f04fd1dc1b21b33f6950dcfdf1344c
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/Hx6Jj83W/MMA.png" group-logo="https://i.postimg.cc/Hx6Jj83W/MMA.png" group-title="MMA EN VIVO",[MMA] PFL Chicago Pettis vs McKee | April 11 2026 | 18:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://tt7.ttfiles.cfd/live/pfl/stream.m3u8?expires=1775926793&token=98008b4687ba98ccc15df223e1faff683c785402ba9c8bd497186afd8766512e
+https://tt7.ttfiles.cfd/live/pfl/stream.m3u8?expires=1775931787&token=5491c586e6bac42c586c58c03cacb9653e00af778480489f5d7ffbdb8d22395a
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/wBGMpYBF/UFC.png" group-logo="https://i.postimg.cc/wBGMpYBF/UFC.png" group-title="UFC EN VIVO",[UFC] UFC 327 Procházka vs Ulberg | April 11 2026 | 17:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://tt5.ttfiles.cfd/live/ufc/stream.m3u8?expires=1775926793&token=bd2a1f3cf6f2462ea72b8ef102ff1035eccc91116da6b7645a3baea3981ba128
+https://to1.tofiles.cfd/live/ufc/stream.m3u8?expires=1775927978&token=97ef454676f6d593c1faca497e07a2d461ad8355e8991a9604b3b5dae84f4541
