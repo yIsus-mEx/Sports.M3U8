@@ -4,7 +4,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://s3.us-east-1.amazonaws.com/emre.gundap/prime.m3u8
+https://s3.us-east-1.amazonaws.com/emre.gundap/ESPN.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png" group-title="NBA EN VIVO",[NBA] Washington Wizards vs Cleveland Cavaliers | April 12 2026 | 15:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://s3.us-east-1.amazonaws.com/emre.gundap/bulls.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="NBA EN VIVO",[NBA] Detroit Pistons vs Indiana Pacers | April 12 2026 | 15:00 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -12,11 +18,29 @@ https://s3.us-east-1.amazonaws.com/emre.gundap/prime.m3u8
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://s3.us-east-1.amazonaws.com/emre.gundap/pacers.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png" group-title="NBA EN VIVO",[NBA] Atlanta Hawks vs Miami Heat | April 12 2026 | 15:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://s3.us-east-1.amazonaws.com/emre.gundap/celtics.m3u8
+
 #EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png" group-title="NBA EN VIVO",[NBA] Charlotte Hornets vs New York Knicks | April 12 2026 | 15:00 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://s3.us-east-1.amazonaws.com/emre.gundap/ESPN.m3u8
+https://s3.us-east-1.amazonaws.com/emre.gundap/boxing.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" group-title="NBA EN VIVO",[NBA] Milwaukee Bucks vs Philadelphia 76ers | April 12 2026 | 15:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://s3.us-east-1.amazonaws.com/emre.gundap/mma.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" group-title="NBA EN VIVO",[NBA] Brooklyn Nets vs Toronto Raptors | April 12 2026 | 15:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://s3.us-east-1.amazonaws.com/emre.gundap/prime.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png" group-title="NBA EN VIVO",[NBA] Memphis Grizzlies vs Houston Rockets | April 12 2026 | 17:30 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
