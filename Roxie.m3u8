@@ -1,22 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/XYwSZj2H/March-Madness.png" tvg-logo="https://a.espncdn.com/i/teamlogos/ncaa/500/41.png" group-title="March Madness EN VIVO",[March Madness] UConn vs Michigan | Apr 06 05:50 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/CxdTn81x/Indy-Logo.png" group-title="MotorSport EN VIVO",[MotorSport] Indycar Series | Apr 17 03:00 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://602.underupturnip.net/ncaa2.m3u8
+https://602.underupturnip.net/fs1.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" group-title="MotorSport EN VIVO",[MotorSport] 24 Hours of Le Mans | Apr 18 06:00 AM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/J0RSrDvN/AMA-Motocross.png" group-title="MotorSport EN VIVO",[MotorSport] AMA Supercross - Qualifying | Apr 18 06:00 AM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://602.underupturnip.net/sbs.m3u8
+https://602.underupturnip.net/nbc.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png" group-title="MLB EN VIVO",[MLB] New York Mets vs Chicago Cubs | Apr 17 11:20 AM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/m2B50qH1/UFC.png" tvg-logo="https://i.postimg.cc/m2B50qH1/UFC.png" group-title="Fighting EN VIVO",[Fighting] BAUMGARDNER vs SHIN | Apr 17 03:30 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://602.underupturnip.net/mlb.m3u8
+https://602.underupturnip.net/ppv.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/m2B50qH1/UFC.png" tvg-logo="https://i.postimg.cc/m2B50qH1/UFC.png" group-title="Fighting EN VIVO",[Fighting] WWE Hall Of Fame | Apr 17 09:00 PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.underupturnip.net/usa.m3u8
 
 #EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" group-title="MLB EN VIVO",[MLB] Kansas City Royals vs New York Yankees | Apr 17 04:05 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -24,56 +30,20 @@ https://602.underupturnip.net/mlb.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 https://602.underupturnip.net/mlb6.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" group-title="MLB EN VIVO",[MLB] Cincinnati Reds vs Minnesota Twins | Apr 17 05:10 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" group-title="MLB EN VIVO",[MLB] Detroit Tigers vs Boston Red Sox | Apr 17 04:15 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://602.underupturnip.net/mlb10.m3u8
+https://602.underupturnip.net/mlb8.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png" group-title="MLB EN VIVO",[MLB] Los Angeles Dodgers vs Colorado Rockies | Apr 17 05:40 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png" group-title="MLB EN VIVO",[MLB] San Diego Padres vs Los Angeles Angels | Apr 17 06:38 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://602.underupturnip.net/mlb11.m3u8
+https://602.underupturnip.net/mlb12.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png" group-title="MLB EN VIVO",[MLB] Toronto Blue Jays vs Arizona Diamondbacks | Apr 17 06:40 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/com.png" group-title="Soccer EN VIVO",[Soccer] Sassuolo vs Como | Apr 17 09:30 AM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://602.underupturnip.net/mlb14.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png" group-title="MLB EN VIVO",[MLB] Chicago White Sox vs Athletics | Apr 17 06:40 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://602.underupturnip.net/mlb15.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png" group-title="NBA EN VIVO",[NBA] Golden State Warriors vs Phoenix Suns | Apr 17 07:00 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://daffodil.underupturnip.net/nba2.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" tvg-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Anaheim Ducks vs Nashville Predators | Apr 16 05:00 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://602.underupturnip.net/nhl2.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] St. Pauli vs Koln | Apr 17 11:30 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://daffodil.underupturnip.net/one.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Mazatlán vs Queretaro | Apr 17 06:00 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://daffodil.underupturnip.net/tudn.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Atlético San Luis vs Pumas UNAM | Apr 17 06:00 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://daffodil.underupturnip.net/pumas.m3u8
+https://daffodil.underupturnip.net/bein.m3u8
