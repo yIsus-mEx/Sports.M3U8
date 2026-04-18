@@ -4,88 +4,88 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/yankees.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/yankees.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" group-title="MLB EN VIVO",[MLB] Cincinnati Reds vs Minnesota Twins | April 18 2026 | 11:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/reds.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/reds.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png" group-title="MLB EN VIVO",[MLB] New York Mets vs Chicago Cubs | April 18 2026 | 11:20 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/cubs.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/cubs.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png" group-title="MLB EN VIVO",[MLB] Tampa Bay Rays vs Pittsburgh Pirates | April 18 2026 | 12:30 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/pirates.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" group-title="MLB EN VIVO",[MLB] San Francisco Giants vs Washington Nationals | April 18 2026 | 13:05 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/nationals.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png" group-title="MLB EN VIVO",[MLB] Tampa Bay Rays vs Pittsburgh Pirates | April 18 2026 | 13:05 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streameast.gl/
-#EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/pirates.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/nationals.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png" group-title="MLB EN VIVO",[MLB] Chicago White Sox vs Athletics | April 18 2026 | 13:05 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/whitesox.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/whitesox.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" group-title="MLB EN VIVO",[MLB] Detroit Tigers vs Boston Red Sox | April 18 2026 | 13:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/redsox.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/redsox.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" group-title="MLB EN VIVO",[MLB] Milwaukee Brewers vs Miami Marlins | April 18 2026 | 13:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/brewers.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/brewers.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="MLB EN VIVO",[MLB] Baltimore Orioles vs Cleveland Guardians | April 18 2026 | 15:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/orioles.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/orioles.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" group-title="MLB EN VIVO",[MLB] St. Louis Cardinals vs Houston Astros | April 18 2026 | 16:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/astros.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/astros.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-title="MLB EN VIVO",[MLB] Atlanta Braves vs Philadelphia Phillies | April 18 2026 | 16:15 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/phillies.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/phillies.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" group-title="MLB EN VIVO",[MLB] Texas Rangers vs Seattle Mariners | April 18 2026 | 16:15 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/rangers.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/rangers.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png" group-title="MLB EN VIVO",[MLB] Los Angeles Dodgers vs Colorado Rockies | April 18 2026 | 17:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/dodgers.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/dodgers.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png" group-title="MLB EN VIVO",[MLB] Toronto Blue Jays vs Arizona Diamondbacks | April 18 2026 | 17:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/bluejays.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/bluejays.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png" group-title="MLB EN VIVO",[MLB] San Diego Padres vs Los Angeles Angels | April 18 2026 | 18:38 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
-https://oshanrd4.s3.us-east-1.amazonaws.com/padres.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/padres.m3u8
