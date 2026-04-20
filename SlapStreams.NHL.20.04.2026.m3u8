@@ -4,94 +4,94 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=RXHand3HA4vACX_7agX88H9IEp6-9v71JHc1BuMvj5c&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG0FFZbz0ur9jCT7HGsSmfs%2F&expires=1776718853/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG0FFZbz0ur9jCT7HGsSmfs/99.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=HUSgPeOeRX09oh0TylHgHKsrYk__yzP9Uzs8FrNVOUI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG0FFZbz0ur9jCT7HGsSmfs%2F&expires=1776730339/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG0FFZbz0ur9jCT7HGsSmfs/99.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs Pittsburgh Penguins | April 20 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=uWXkNRvQM5cQFlInvKLrRa3J1vLmwdhany5gq_HtE9M&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGB2YjV9BRmPg1P8Tt8HIyj%2F&expires=1776718859/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGB2YjV9BRmPg1P8Tt8HIyj/173.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=hW72G8kDU30RG7OdeB-yLGrcG5uLLzC9YS5yDo5rS1w&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGB2YjV9BRmPg1P8Tt8HIyj%2F&expires=1776730345/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGB2YjV9BRmPg1P8Tt8HIyj/173.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs Pittsburgh Penguins | April 20 2026 | 4:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/uyopzarf50.m3u8?st=ZV0A1HmUwfarMgVXRHz3ARFt3D4D68dzDloF0fPV9v8&e=1776715266
+https://mainstreams.pro/hls/uyopzarf50.m3u8?st=Jx8ASAJ-CJU_37yWyybN0-8aRNfMpWzL7JuUIoyGFic&e=1776726752
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Philadelphia Flyers vs Pittsburgh Penguins | April 20 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/uyopzarf50.m3u8?st=Y-yFk9nXuAYpAwYDBw8qMudAaqxEgprb_l7hEI0NO6Y&e=1776715272
+https://mainstreams.pro/hls/uyopzarf50.m3u8?st=KuEmg4Xk8_FsLlAAov90Tg3OXaAIovGfAS2si9UJDrk&e=1776726758
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Ottawa Senators vs Carolina Hurricanes | April 20 2026 | 4:30 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=6SYr9etFt8y59JPIG9UQCuVIpI8weSX-BtSEQUYRCTM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l%2F&expires=1776718881/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l/92.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=wcxjXT4M4Z2vJOGcc3UCYziTy04Gz_sN-5vbfF8VM60&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l%2F&expires=1776730367/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l/92.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Ottawa Senators vs Carolina Hurricanes | April 20 2026 | 4:30 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=gkwxcJZ8BuDnIp-CO8scwTMRo0z5xAxq7s_AAveyErs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGkfQ_lFH5sJIifxNoW519s%2F&expires=1776718887/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGkfQ_lFH5sJIifxNoW519s/102.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=ZocTJCt-3CY__lQ_IesMS_POxU7Fo_wOOfqr4nX3D6M&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGkfQ_lFH5sJIifxNoW519s%2F&expires=1776730374/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGkfQ_lFH5sJIifxNoW519s/102.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Ottawa Senators vs Carolina Hurricanes | April 20 2026 | 4:30 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=jYvgV8CqKcq0Y_oHxOtq5IGzoiHafvSO6JGidT2RMA8&e=1776715294
+https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=E0u4eX5soMZv3TYKbJCf3TMOHmS0zytc1vuNHm7zaKE&e=1776726780
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Ottawa Senators vs Carolina Hurricanes | April 20 2026 | 4:30 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=Fx1Ctyw2AzzVd7bZmM9a21YillzUcxK1SpycQhtkNjo&e=1776715300
+https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=MoUm-pVFBZug28WL6UjDDVblBj7dHOMD8A0wV02KbMs&e=1776726786
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Minnesota Wild vs Dallas Stars | April 20 2026 | 6:30 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=HSLbt7zwWHQbPuClV8C4OUANiwf9S4k4tyRcw5VSGWk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHUYYNXvyblTyK3-UKHJFWe%2F&expires=1776718909/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHUYYNXvyblTyK3-UKHJFWe/104.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=SCo8nO8ItLdFFap0O1vYDigZdtazdwfyTdDBauSdE-M&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHUYYNXvyblTyK3-UKHJFWe%2F&expires=1776730396/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHUYYNXvyblTyK3-UKHJFWe/104.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Minnesota Wild vs Dallas Stars | April 20 2026 | 6:30 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=s4DnzUx_YvY-d6sgW7doNn2YIwA845BMBKNHSStKgk8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe%2F&expires=1776718915/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe/105.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=5jyoo8VQ3638KdP2d94VdCWOreoh0os-GPdIBVZOZTQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe%2F&expires=1776730402/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGx0YnLdRXnknjnziBrAREe/105.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Minnesota Wild vs Dallas Stars | April 20 2026 | 6:30 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=_vNu14gP9f9LnABuULB9SUi7t-tsPP_AVJLQ5HCx55M&e=1776715322
+https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=BYZ-kK-BX5N5msYDI7xa9pQIRpGjG1h1UWTp3e5b11Q&e=1776726808
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Minnesota Wild vs Dallas Stars | April 20 2026 | 6:30 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=SnEMhOplpatbDDMF_5Gh6QR31o1T00ZmC3hG4KdAN8g&e=1776715328
+https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=kMMWR6n7Hq8nx6MNnY29BPHKP14_xyet_DS-MFe8giY&e=1776726814
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Anaheim Ducks vs Edmonton Oilers | April 20 2026 | 7:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=UAwqzOgDWCsVdpx9LaCHXxevOTvJRlyu6kGjCgcrXzk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9%2F&expires=1776718937/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9/98.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=kHzRmaqzl-nbYkK8Ooh3OAwpKLHgYGXAgGHo8-iCVoA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9%2F&expires=1776730424/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9/98.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Anaheim Ducks vs Edmonton Oilers | April 20 2026 | 7:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=LXeN0TXzjQvzV_fEoNLVB5bBLnbUE22UtxCktgN4krE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH%2F&expires=1776718944/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH/90.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=IdKPRXp1kNHc6AupUz6igQuZHverTHEujmAchjZSiMw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH%2F&expires=1776730430/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH/90.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Anaheim Ducks vs Edmonton Oilers | April 20 2026 | 7:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=txvx3WlcQ7w_zwXNf-SGn4GMpPnZfDy5ga8rUe_baoc&e=1776715350
+https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=oJnfOZCGNbXgv1RfbkEZ_rNA0YQ1o8L8yNDQZaU2JXA&e=1776726836
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Anaheim Ducks vs Edmonton Oilers | April 20 2026 | 7:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=2jlXTGJq6vWl7Qf2oCVkx_0y7i_1xv_dGFMsACYtIuQ&e=1776715356
+https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=qJma103rYwlcuUatEmwCbTF0xMuCwl5z5xdTM1zkuWQ&e=1776726842
