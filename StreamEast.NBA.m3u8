@@ -1,1 +1,13 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png" group-title="NBA EN VIVO",[NBA] Orlando Magic vs Detroit Pistons | April 22 2026 | 16:00 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://lobefaqelo649.s3.us-east-1.amazonaws.com/TNT.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png" group-title="NBA EN VIVO",[NBA] Phoenix Suns vs Oklahoma City Thunder | April 22 2026 | 18:30 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://lobefaqelo649.s3.us-east-1.amazonaws.com/spurs.m3u8
