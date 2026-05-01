@@ -1,1 +1,85 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/FbgCt5RP/0ab85aa73880.png" group-title="MLB EN VIVO",[MLB] Texas Rangers vs Detroit Tigers | May 01 2026 | 15:40 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/cubs.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/ZRzJkZgW/663159581a6f.png" group-title="MLB EN VIVO",[MLB] Cincinnati Reds vs Pittsburgh Pirates | May 01 2026 | 15:45 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/orioles.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/WWZHYKJH/9046f048086d.png" group-title="MLB EN VIVO",[MLB] Milwaukee Brewers vs Washington Nationals | May 01 2026 | 15:45 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/brewers.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/sJbggVKY/3247c0a24cf4.png" group-title="MLB EN VIVO",[MLB] Baltimore Orioles vs New York Yankees | May 01 2026 | 16:05 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/yankees.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Hsvs6dV/ec29ee6e2142.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Boston Red Sox | May 01 2026 | 16:10 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/redsox.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Q7V4rPFb/638b1e06f7ac.png" group-title="MLB EN VIVO",[MLB] Philadelphia Phillies vs Miami Marlins | May 01 2026 | 16:10 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/phillies.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/kT3qcK3/130396460946.png" group-title="MLB EN VIVO",[MLB] San Francisco Giants vs Tampa Bay Rays | May 01 2026 | 16:10 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/rays.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/YB4rk8Yv/624cfcb2a8fb.png" group-title="MLB EN VIVO",[MLB] Toronto Blue Jays vs Minnesota Twins | May 01 2026 | 17:10 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/bluejays.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/d0TyQT6C/3c427c59bfaa.png" group-title="MLB EN VIVO",[MLB] Los Angeles Dodgers vs St. Louis Cardinals | May 01 2026 | 17:15 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/dodgers.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/TCMgNw1/e73d880c2f59.png" group-title="MLB EN VIVO",[MLB] Atlanta Braves vs Colorado Rockies | May 01 2026 | 17:40 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/braves.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/LdJS2P19/573b1393506c.png" group-title="MLB EN VIVO",[MLB] New York Mets vs Los Angeles Angels | May 01 2026 | 18:38 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/mets.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/r2M86GMG/c901da427796.png" group-title="MLB EN VIVO",[MLB] Chicago White Sox vs San Diego Padres | May 01 2026 | 18:40 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/whitesox.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/tNV9cGk/9d88331f2b8c.png" group-title="MLB EN VIVO",[MLB] Cleveland Guardians vs Athletics | May 01 2026 | 18:40 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/athletics.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/JWJtFBpq/002ceaa68e23.png" group-title="MLB EN VIVO",[MLB] Kansas City Royals vs Seattle Mariners | May 01 2026 | 18:45 (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streameast.gl/
+#EXTVLCOPT:http-origin=https://streameast.gl
+https://romoramad.s3.us-east-1.amazonaws.com/royals.m3u8
