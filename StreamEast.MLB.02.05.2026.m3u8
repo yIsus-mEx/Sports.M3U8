@@ -1,90 +1,90 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/VK29XcW/a75e339f4b40.png" group-title="MLB EN VIVO",[MLB] Baltimore Orioles vs New York Yankees | May 02 2026 | 10:35 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/wN9Vfhsj/d29084fa9bce.png" group-title="MLB EN VIVO",[MLB] Baltimore Orioles vs New York Yankees | May 02 2026 | 10:35 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/yankees.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/7tqfV7jm/c7bfeac6a83f.png" group-title="MLB EN VIVO",[MLB] Toronto Blue Jays vs Minnesota Twins | May 02 2026 | 11:10 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/q3wLWwFr/b4c0ba5a63ed.png" group-title="MLB EN VIVO",[MLB] Toronto Blue Jays vs Minnesota Twins | May 02 2026 | 11:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/bluejays.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/NdPjXbyS/6f289c2b4da6.png" group-title="MLB EN VIVO",[MLB] Arizona Diamondbacks vs Chicago Cubs | May 02 2026 | 11:20 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/8n7ypp10/f750f682b754.png" group-title="MLB EN VIVO",[MLB] Arizona Diamondbacks vs Chicago Cubs | May 02 2026 | 11:20 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/cubs.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/HTLGLyzr/7738db5217dd.png" group-title="MLB EN VIVO",[MLB] Cincinnati Reds vs Pittsburgh Pirates | May 02 2026 | 13:05 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/k2z8Xjs3/abb1adac0b63.png" group-title="MLB EN VIVO",[MLB] Cincinnati Reds vs Pittsburgh Pirates | May 02 2026 | 13:05 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/reds.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/1tNS9wXv/8c20fdc02e1a.png" group-title="MLB EN VIVO",[MLB] Milwaukee Brewers vs Washington Nationals | May 02 2026 | 13:05 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/YB1rbw8c/dddca8beeccd.png" group-title="MLB EN VIVO",[MLB] Milwaukee Brewers vs Washington Nationals | May 02 2026 | 13:05 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/brewers.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/tNZZnmK/f35411ff7d45.png" group-title="MLB EN VIVO",[MLB] Cleveland Guardians vs Athletics | May 02 2026 | 13:05 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/Xf6TzT55/d92b497f5065.png" group-title="MLB EN VIVO",[MLB] Cleveland Guardians vs Athletics | May 02 2026 | 13:05 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/athletics.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/B20F10mT/b74c3147f962.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Boston Red Sox | May 02 2026 | 13:10 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/v636F7d1/760a01594f40.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Boston Red Sox | May 02 2026 | 13:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/redsox.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/RTYjfzR7/49d4cbcbd92c.png" group-title="MLB EN VIVO",[MLB] Philadelphia Phillies vs Miami Marlins | May 02 2026 | 13:10 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/hJwmhCdm/c4cb3b1010d3.png" group-title="MLB EN VIVO",[MLB] Philadelphia Phillies vs Miami Marlins | May 02 2026 | 13:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/phillies.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/FLfTH1c4/4136babac174.png" group-title="MLB EN VIVO",[MLB] San Francisco Giants vs Tampa Bay Rays | May 02 2026 | 15:10 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/NdJ0YWmJ/8642113c097e.png" group-title="MLB EN VIVO",[MLB] San Francisco Giants vs Tampa Bay Rays | May 02 2026 | 15:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/rays.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/CpPVvQ29/5375081bc2fb.png" group-title="MLB EN VIVO",[MLB] Texas Rangers vs Detroit Tigers | May 02 2026 | 16:15 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/RTxNRyDx/77cd1d55ff74.png" group-title="MLB EN VIVO",[MLB] Texas Rangers vs Detroit Tigers | May 02 2026 | 16:15 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/rangers.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/21qDkfqy/4bd96b45420c.png" group-title="MLB EN VIVO",[MLB] Los Angeles Dodgers vs St. Louis Cardinals | May 02 2026 | 16:15 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/RJMM74Y/ae681cb0d291.png" group-title="MLB EN VIVO",[MLB] Los Angeles Dodgers vs St. Louis Cardinals | May 02 2026 | 16:15 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/dodgers.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/KxFdHbjG/027a5ad1cbe6.png" group-title="MLB EN VIVO",[MLB] Atlanta Braves vs Colorado Rockies | May 02 2026 | 17:10 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/b5MvBJpF/c0c0d887331c.png" group-title="MLB EN VIVO",[MLB] Atlanta Braves vs Colorado Rockies | May 02 2026 | 17:10 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/braves.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/R1g33Wz/3492940a342d.png" group-title="MLB EN VIVO",[MLB] Chicago White Sox vs San Diego Padres | May 02 2026 | 17:40 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/vvvDR9H5/f9ded38b1037.png" group-title="MLB EN VIVO",[MLB] Chicago White Sox vs San Diego Padres | May 02 2026 | 17:40 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/whitesox.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/8Lpb8zdM/89210ccd8e19.png" group-title="MLB EN VIVO",[MLB] New York Mets vs Los Angeles Angels | May 02 2026 | 18:38 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/FLqVNmkM/ef1c979e75f4.png" group-title="MLB EN VIVO",[MLB] New York Mets vs Los Angeles Angels | May 02 2026 | 18:38 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/mets.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/VpC5VBd1/dd988041cb63.png" group-title="MLB EN VIVO",[MLB] Kansas City Royals vs Seattle Mariners | May 02 2026 | 18:40 (HOME)
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://i.ibb.co/kVy68ZJJ/8da852ec2838.png" group-title="MLB EN VIVO",[MLB] Kansas City Royals vs Seattle Mariners | May 02 2026 | 18:40 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
