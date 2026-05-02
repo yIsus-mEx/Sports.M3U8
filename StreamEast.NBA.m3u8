@@ -1,19 +1,1 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/8nhJtfWj/6da2d81c9dde.png" group-title="NBA EN VIVO",[NBA] Detroit Pistons vs Orlando Magic | May 01 2026 | 16:00 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streameast.gl/
-#EXTVLCOPT:http-origin=https://streameast.gl
-https://romoramad.s3.us-east-1.amazonaws.com/btsport.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/KptHDf2K/08e922e5c60a.png" group-title="NBA EN VIVO",[NBA] Cleveland Cavaliers vs Toronto Raptors | May 01 2026 | 16:30 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streameast.gl/
-#EXTVLCOPT:http-origin=https://streameast.gl
-https://romoramad.s3.us-east-1.amazonaws.com/sportsnet.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/PGQQMFT7/ad00056ccb89.png" group-title="NBA EN VIVO",[NBA] Los Angeles Lakers vs Houston Rockets | May 01 2026 | 18:30 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streameast.gl/
-#EXTVLCOPT:http-origin=https://streameast.gl
-https://romoramad.s3.us-east-1.amazonaws.com/btsport.m3u8
