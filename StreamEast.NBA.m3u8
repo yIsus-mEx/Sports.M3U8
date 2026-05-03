@@ -1,7 +1,1 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/9mK4zT1h/073d62559a46.png" group-title="NBA EN VIVO",[NBA] Philadelphia 76ers vs Boston Celtics | May 02 2026 | 16:30 (HOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streameast.gl/
-#EXTVLCOPT:http-origin=https://streameast.gl
-https://rifusfcollins.s3.us-east-1.amazonaws.com/btsport.m3u8
