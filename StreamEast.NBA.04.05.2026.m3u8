@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/8nhzPJN1/12cf48f26744.png" group-title="NBA EN VIVO",[NBA] Philadelphia 76ers vs New York Knicks | May 04 2026 | 17:00 (HOME)
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/wNfkjNQb/f5ffb493509e.png" group-title="NBA EN VIVO",[NBA] Philadelphia 76ers vs New York Knicks | May 04 2026 | 17:00 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
 https://rifusfcollins.s3.us-east-1.amazonaws.com/btsport.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/HLdvhVKS/9573eab47c65.png" group-title="NBA EN VIVO",[NBA] Minnesota Timberwolves vs San Antonio Spurs | May 04 2026 | 18:30 (HOME)
+#EXTINF:-1 tvg-id="NBA.Basketball.us" tvg-logo="https://i.ibb.co/zHBG7KXC/839fea3c0333.png" group-title="NBA EN VIVO",[NBA] Minnesota Timberwolves vs San Antonio Spurs | May 04 2026 | 18:30 (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streameast.gl/
 #EXTVLCOPT:http-origin=https://streameast.gl
