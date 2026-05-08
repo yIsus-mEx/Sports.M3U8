@@ -1,49 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/nsMSVRtR/d497f354ce85.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Buffalo Sabres | May 08 2026 | 4:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/23gqjQD2/0bf0eefb1506.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Buffalo Sabres | May 08 2026 | 4:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=-xz8eBo5cJ0_9Z4BNQ7L-nuNhqLL0kuUvo7YXE9682w&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGDkkeTXzhjueMM4dscPO4G%2F&expires=1778274753/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGDkkeTXzhjueMM4dscPO4G/101.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=3iLuOFtwCkQ_X07_I7cMUG7qcxYDMyh0CYbF5O1CpBs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGDkkeTXzhjueMM4dscPO4G%2F&expires=1778286312/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGDkkeTXzhjueMM4dscPO4G/101.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/nsMSVRtR/d497f354ce85.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Buffalo Sabres | May 08 2026 | 4:00 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/23gqjQD2/0bf0eefb1506.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Buffalo Sabres | May 08 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=rTjTWV2Oyxo5HxFfdcd4NRcVhi0J2QAT0fp7tQ-nACs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d%2F&expires=1778274760/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d/87.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=OlFtqhRUjYr0VdZACLYWC9r1DiKizPOBd5_1b17zLGo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d%2F&expires=1778286318/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d/87.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/nsMSVRtR/d497f354ce85.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Buffalo Sabres | May 08 2026 | 4:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/23gqjQD2/0bf0eefb1506.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Buffalo Sabres | May 08 2026 | 4:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=ZqpSF0k6C3_Q6Vspp0QicOZoEHlNZTbtevB_Lvbnv3w&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH8vdwKJvon5owE81CQLxyt%2F&expires=1778274766/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH8vdwKJvon5owE81CQLxyt/83.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=_COjpDIkU9-ZYg1AqsW-d25v05yCvaxRA_kwQ3K3ZbU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH8vdwKJvon5owE81CQLxyt%2F&expires=1778286324/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH8vdwKJvon5owE81CQLxyt/83.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/nsMSVRtR/d497f354ce85.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Buffalo Sabres | May 08 2026 | 4:00 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/23gqjQD2/0bf0eefb1506.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Buffalo Sabres | May 08 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://edge2caster.pro/hls/uyopzarf50.m3u8?st=zqPQnCD0WIilNpKddFbh4D6wuA3NZCyOpFQA1S1uXNI&e=1778271173
+https://edge2caster.pro/hls/uyopzarf50.m3u8?st=Q2PgwmE5syE0WQQaSK_1GzuWX2r7539VhP2pw0reefA&e=1778282731
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/rKs58F0B/e2bcb6d8e9ab.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Anaheim Ducks | May 08 2026 | 6:30 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/62cG4wM/d8550bde2919.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Anaheim Ducks | May 08 2026 | 6:30 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=Hc8q2SqRc52AZdB0TGS2H5fJASxuvLBlsWe5tSaMtSw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH%2F&expires=1778274783/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH/90.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=7C9J02nTDPLWwVdIoW-b3TcU0uZeLFz16Ce-WenwxQ0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH%2F&expires=1778286340/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH/90.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/rKs58F0B/e2bcb6d8e9ab.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Anaheim Ducks | May 08 2026 | 6:30 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/62cG4wM/d8550bde2919.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Anaheim Ducks | May 08 2026 | 6:30 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=5EA8Si0icNx0iT2fSsgRVHcS1RWeSavf0omJ3CiSejs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q%2F&expires=1778274789/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q/96.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=atNgu4RXqn-frMjRK_RQ-26fbc7rZYeFeQMvrRopGMo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q%2F&expires=1778286347/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q/96.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/rKs58F0B/e2bcb6d8e9ab.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Anaheim Ducks | May 08 2026 | 6:30 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/62cG4wM/d8550bde2919.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Anaheim Ducks | May 08 2026 | 6:30 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://edge2caster.pro/hls/hjksgdfauzy51.m3u8?st=-SwyzQb0If_gSbu3GSN34YlHtGXEWV97EhQVBAg1hW4&e=1778271195
+https://edge2caster.pro/hls/hjksgdfauzy51.m3u8?st=FdrX929zOx3AZod6rt7V4ch1_NH2sYQs3T-Uwccc3IU&e=1778282753
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/rKs58F0B/e2bcb6d8e9ab.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Anaheim Ducks | May 08 2026 | 6:30 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/62cG4wM/d8550bde2919.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Anaheim Ducks | May 08 2026 | 6:30 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.live/US/NHL2/index.m3u8?st=ZytL_gn9PFvpinIfYi4b9w&amp;e=1778271202
+https://instreams.live/US/NHL2/index.m3u8?st=j-z2wY07oJ6is-C4c74NFg&amp;e=1778282760
