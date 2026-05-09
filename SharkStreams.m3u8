@@ -1,145 +1,169 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/p6qKkcqV/716eb9d3cacf.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Cincinnati Reds | May 09 2026 | 18:10
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-title="Boxing EN VIVO",[Boxing] Fabio Wardley vs Daniel Dubois | May 09 2026 | 13:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp1.bpfiles.cfd/live/1/stream.m3u8?expires=1778303538&token=3bd3701480b30f67834424e73df607384dfaa7f9234d923f0b8de8c0b0bde30c
+https://nb2.bpfiles.cfd/live/wardley/stream.m3u8?expires=1778358325&token=88dbceafe86119b8e295481986a10f745b88e908ab83a1e4c75746b4f1ae9794
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/9SDwcZ8/570eb719334e.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Colorado Rockies vs Philadelphia Phillies | May 09 2026 | 18:40
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-title="Boxing EN VIVO",[Boxing] Angelo Leo vs Ra'eese Aleem | May 09 2026 | 20:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp1.bpfiles.cfd/live/2/stream.m3u8?expires=1778320601&token=fd575e7aeb7e1dd8e854c6b322d25b229a4f5913153f0897e0290c2ac60e8dff
+https://nb5.bpfiles.cfd/live/aleem/stream.m3u8?expires=1778358465&token=7ca04d13f3d1b96f12bdb7dd0d5909ec6e45c9ad0488b4311a39bc60966a5e25
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/knthV5N/8bc227bd4986.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Athletics vs Baltimore Orioles | May 09 2026 | 19:05
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-logo="https://i.postimg.cc/bwFpGHfF/BOX.png" group-title="Boxing EN VIVO",[Boxing] Kickboxing: RIZIN 53 | May 09 2026 | 23:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp1.bpfiles.cfd/live/3/stream.m3u8?expires=1778346386&token=2ddcce4a8b5720b5913ea9a89c72b56190d63aa9d578bbd9da5c1c55fd9c0502
+https://nb5.bpfiles.cfd/live/rizin53/stream.m3u8?expires=1778358470&token=9d74ae20f24b67a1bcb995861fe55ac7f49451394b02c87e4c252eb465a79ed8
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/LhZgQWwH/d936209d4143.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Los Angeles Angels vs Toronto Blue Jays | May 09 2026 | 19:07
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Los Angeles Angels vs Toronto Blue Jays | May 09 2026 | 15:07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp1.bpfiles.cfd/live/4/stream.m3u8?expires=1778294411&token=cc35bbb1a3b4e64b67b046aad5c05404312d9afeee1a4c811dc41099eac6f7e4
+https://bp1.bpfiles.cfd/live/1/stream.m3u8?expires=1778358338&token=78ae9f2d8577f1ccf336726068a865472409bba8930287c99b4863814a2c0060
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/Sw6QyK27/bfd20224580a.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Washington Nationals vs Miami Marlins | May 09 2026 | 19:10
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Athletics vs Baltimore Orioles | May 09 2026 | 16:05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp2.bpfiles.cfd/live/6/stream.m3u8?expires=1778297004&token=e7ce6fe7b5077d8fb30a255f64b55eb2c68b6bb811d5abf8a224b7bc38f1ffd9
+https://bp1.bpfiles.cfd/live/2/stream.m3u8?expires=1778358320&token=3f52b181fbd0d6332ac9a447bb4d8078489151187df4b402c0e58531c304dd32
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/jPsv50Hf/7b1cfb03ba01.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Tampa Bay Rays vs Boston Red Sox | May 09 2026 | 19:10
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Washington Nationals vs Miami Marlins | May 09 2026 | 16:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp1.bpfiles.cfd/live/5/stream.m3u8?expires=1778320602&token=65d3c183e89b1b06cb2dd778f5b8b67a13046787980f2638b74ee7638be4907b
+https://bp1.bpfiles.cfd/live/3/stream.m3u8?expires=1778358454&token=ba4273891e6428acc02d18ec89285c37be4dc0697e189d3dd42fce6a1f83e6af
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/qQVnPz0/c015086f1d64.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Minnesota Twins vs Cleveland Guardians | May 09 2026 | 19:15
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Cincinnati Reds | May 09 2026 | 16:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp2.bpfiles.cfd/live/7/stream.m3u8?expires=1778293669&token=9b67822ea1e49b392bcc3d74ea5be843aa2da9baaa18444144d74bcb17047091
+https://bp1.bpfiles.cfd/live/5/stream.m3u8?expires=1778358320&token=41f8825f47a9afa0e363499670da03ba5b49058273557b4be3bd6dd3d1ed0c7d
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/VYKXQNZ6/8228d2c79d7e.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Detroit Tigers vs Kansas City Royals | May 09 2026 | 19:40
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Tampa Bay Rays vs Boston Red Sox | May 09 2026 | 16:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp2.bpfiles.cfd/live/8/stream.m3u8?expires=1778293313&token=ee2ab8dccd17f0447eef4b8102bdba9a212051d019bc377d7e2585e2bc873e72
+https://bp1.bpfiles.cfd/live/4/stream.m3u8?expires=1778358358&token=e6882d4ff4dbf3c75c93b04a47eeb37b5c920d1c8bd042653fc9ba1b5be1ebff
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/h1C8Fbb1/e1e2a725726f.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] New York Yankees vs Milwaukee Brewers | May 09 2026 | 19:40
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Colorado Rockies vs Philadelphia Phillies | May 09 2026 | 18:05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp2.bpfiles.cfd/live/9/stream.m3u8?expires=1778293077&token=f6f488f58393aebdd283707c033cbc57ca2128de249aa12653e2bbca954b59d1
+https://bp2.bpfiles.cfd/live/6/stream.m3u8?expires=1778358457&token=669139bab233fba83bbe0ca39829a3c2f15df3ca0b0f1974d8c7b98fd5d1339b
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/JjjNXZ7B/70f8ba0123db.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Seattle Mariners vs Chicago White Sox | May 09 2026 | 19:40
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Minnesota Twins vs Cleveland Guardians | May 09 2026 | 18:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp2.bpfiles.cfd/live/10/stream.m3u8?expires=1778292995&token=1aff1ba2154a4a966b71f2cb121b5bfa61c3318de5932d37db6efc1b6e41b93d
+https://bp2.bpfiles.cfd/live/7/stream.m3u8?expires=1778358458&token=8a520f63013b12c4549988d709d0a2f7a6a730b0cf87fa0a3df9f2e61995256c
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/27MYSNDj/f54b629d59b3.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Chicago Cubs vs Texas Rangers | May 09 2026 | 20:05
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Chicago Cubs vs Texas Rangers | May 09 2026 | 19:05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp2.bpfiles.cfd/live/11/stream.m3u8?expires=1778293216&token=69f4ea3e45dd0d981955259a8bca799e9479a89146085c8febd66888b2451518
+https://bp2.bpfiles.cfd/live/8/stream.m3u8?expires=1778358459&token=0f3668970c3d52280f9205fec10a6bc4941541a6d0455017b7a3e2014e9ce534
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/sp24BDZn/1d4b2edf5bab.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] New York Mets vs Arizona Diamondbacks | May 09 2026 | 21:40
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Detroit Tigers vs Kansas City Royals | May 09 2026 | 19:05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp3.bpfiles.cfd/live/12/stream.m3u8?expires=1778295848&token=8dd6caab0ea0f23ec1c163e24530382f7292edcf400f9b21d50728be089f9747
+https://bp2.bpfiles.cfd/live/9/stream.m3u8?expires=1778358460&token=a7db08ece2532f4c9b2c206d215e11f922b26541d12d44d16b1d01eb3462b2ca
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] St. Louis Cardinals vs San Diego Padres | May 09 2026 | 21:45
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Seattle Mariners vs Chicago White Sox | May 09 2026 | 19:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp3.bpfiles.cfd/live/13/stream.m3u8?expires=1778293104&token=571d9e60dbab12a51a07f5ce2cbaef596ea5940f78a7f3ad0c7bc5c997bcbf77
+https://bp2.bpfiles.cfd/live/10/stream.m3u8?expires=1778358461&token=e17868d21269b953804582d4fb50fe422ede7fdf633bcee93f9d292e58ac615e
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Atlanta Braves vs Los Angeles Dodgers | May 09 2026 | 22:10
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] New York Yankees vs Milwaukee Brewers | May 09 2026 | 19:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp3.bpfiles.cfd/live/14/stream.m3u8?expires=1778293249&token=228979bce28bea319aff51eae03d6428eaf1a5e828598eda23020ad0bb91d5a7
+https://bp2.bpfiles.cfd/live/11/stream.m3u8?expires=1778358462&token=4e67fd964536c82085ac2abd284e4fd8f39ba59f17b6d115ac1139ff5ecb8a7f
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Pittsburgh Pirates vs San Francisco Giants | May 09 2026 | 22:15
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] New York Mets vs Arizona Diamondbacks | May 09 2026 | 19:15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://bp3.bpfiles.cfd/live/15/stream.m3u8?expires=1778294326&token=bf475bb1d35ac557892afa22ea143fb163ebfad83d41cb98a8e79c849953a539
+https://bp3.bpfiles.cfd/live/12/stream.m3u8?expires=1778358463&token=af16daeb102d360036e9c8c63dea9655415701561d43a063a06595bb3c210208
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/Hx6Jj83W/MMA.png" group-logo="https://i.postimg.cc/Hx6Jj83W/MMA.png" group-title="MMA EN VIVO",[MMA] ACA 203: Gaforov vs Akopyan :MMA Championship | May 09 2026 | 07:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] St. Louis Cardinals vs San Diego Padres | May 09 2026 | 19:15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nb4.bpfiles.cfd/live/aca/stream.m3u8?expires=1778295858&token=98bbe6865e3312c535261484a32b96df4b6ce90aa8dfae6318a3503e57b9ef54
+https://bp3.bpfiles.cfd/live/13/stream.m3u8?expires=1778358464&token=46f1320afeba7b57030b4f143f203d3c255db41815ee4af6556b252702638efb
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/WNwgjGcN/6d996db3e96c.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] New York Knicks vs Philadelphia 76ers | May 09 2026 | 19:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Pittsburgh Pirates vs San Francisco Giants | May 09 2026 | 21:05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nb1.bpfiles.cfd/live/76ers/stream.m3u8?expires=1778292835&token=d480362a00e16bcf790dcdc4cd3057f0a89d6512029ddfabedc33478afb176e1
+https://bp3.bpfiles.cfd/live/15/stream.m3u8?expires=1778358467&token=59370d40d3e7baaf2e740ae999fbc40aed19f287b69836f2c4b5858a3efc49ca
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] San Antonio Spurs vs Minnesota Timberwolves | May 09 2026 | 21:30
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Atlanta Braves vs Los Angeles Dodgers | May 09 2026 | 21:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nb2.bpfiles.cfd/live/timber/stream.m3u8?expires=1778292833&token=fb53284dc57cda685f97651b1ffe9c39c4bf692aac1513d52222c72e982e6487
+https://bp3.bpfiles.cfd/live/14/stream.m3u8?expires=1778358468&token=de2720ad00243c85be8ffd233c417fc877478b6d1d249a3bcae105409b3bda7e
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Buffalo Sabres | May 09 2026 | 19:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] Detroit Pistons vs Cleveland Cavaliers | May 09 2026 | 15:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nb4.bpfiles.cfd/live/tnt/stream.m3u8?expires=1778303113&token=5332b56ab15df10114c3f67fd0e50118c2b7dc32c563f6cad80ad20b22fa0f87
+https://nb1.bpfiles.cfd/live/detroit/stream.m3u8?expires=1778358315&token=113ad598f01acf92c32c02992ef6ebce1c4bf403968901360d6de9ba6bb5c044
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Anaheim Ducks | May 09 2026 | 21:30
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] Oklahoma City Thunder vs Los Angeles Lakers | May 09 2026 | 21:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nb4.bpfiles.cfd/live/tnt/stream.m3u8?expires=1778292889&token=607c984e77d0d39ccfe2be6345f01cfd89fc1b6ae5da7567a8e6dfc350d4a8f0
+https://nb3.bpfiles.cfd/live/lakerss/stream.m3u8?expires=1778358469&token=6710410128b7c51f32f23a8722a815fb010bf60609f21ef0ab5f77db5e44c29b
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-title="WNBA EN VIVO",[WNBA] Washington Mystics vs Toronto Tempo | May 09 2026 | 19:30
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Carolina Hurricanes vs Philadelphia Flyers | May 09 2026 | 18:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nb4.bpfiles.cfd/live/tempo/stream.m3u8?expires=1778293939&token=3e0935fa732685fe117ae5e4b648038c46955816161f99a1d22ad5a22d164c4b
+https://nb4.bpfiles.cfd/live/tnt/stream.m3u8?expires=1778358456&token=bc4ed456e8822cfae82d7c21f3fdb5013d44d402189b32091eda88b749e087eb
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-title="WNBA EN VIVO",[WNBA] Connecticut Sun vs New York Liberty | May 09 2026 | 19:30
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Colorado Avalanche vs Minnesota Wild | May 09 2026 | 21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nb4.bpfiles.cfd/live/dream/stream.m3u8?expires=1778346392&token=6add8146810ac2943b1bf86b33377206f968a8e2ad1cc504fa39ccc69f70a185
+https://nb4.bpfiles.cfd/live/tnt/stream.m3u8?expires=1778358466&token=0210e8e9a9ae011d32b8068425428aec94303b158f25d07dbbdcc7dac4d03051
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-title="WNBA EN VIVO",[WNBA] Golden State Valkyries vs Seattle Storm | May 09 2026 | 22:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/wBGMpYBF/UFC.png" group-logo="https://i.postimg.cc/wBGMpYBF/UFC.png" group-title="UFC EN VIVO",[UFC] UFC 328:Chimaev vs Strickland | May 09 2026 | 17:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nb4.bpfiles.cfd/live/storm/stream.m3u8?expires=1778292889&token=0f7042231071ea51fa29d0ae2919b647772e95fe54a9db223b17422d74c5ddb4
+https://nb6.bpfiles.cfd/live/ufc328/stream.m3u8?expires=1778358340&token=b21d4a69d877ec76c1fab7251248dd4e085c22fd30961c818a103ce7f97d20fc
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-title="WNBA EN VIVO",[WNBA] Phoenix Mercury vs Las Vegas Aces | May 09 2026 | 15:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://nb4.bpfiles.cfd/live/aces/stream.m3u8?expires=1778358339&token=ff3b8daaf8b726b6677c280104797675476b10cb42cf24cdab5cc69924f3469c
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-title="WNBA EN VIVO",[WNBA] Atlanta Dream vs Minnesota Lynx | May 09 2026 | 20:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://nb4.bpfiles.cfd/live/lynx/stream.m3u8?expires=1778358465&token=4e1377bb42ab27b8a2bee843875d6cf378a7802060bbdc07b325c47c4d96227b
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-title="WNBA EN VIVO",[WNBA] Chicago Sky vs Portland Fire | May 09 2026 | 21:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://nb4.bpfiles.cfd/live/fire/stream.m3u8?expires=1778358467&token=fc214ec7ba537d7ee3924ff6e3923c2ff0a561890a6058a2b7b3ac7710d0da28
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/6qSf2mz5/WWE.png" group-logo="https://i.postimg.cc/6qSf2mz5/WWE.png" group-title="WWE EN VIVO",[WWE] WWE: Backlash 2026 | May 09 2026 | 20:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://nb5.bpfiles.cfd/live/backlash/stream.m3u8?expires=1778358317&token=7826ea3c48b2d7fc762ac10bf374ce88d1370860f1033aa1d0e019c366bd5195
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/6qSf2mz5/WWE.png" group-logo="https://i.postimg.cc/6qSf2mz5/WWE.png" group-title="WWE EN VIVO",[WWE] WWE: Monday Night RAW | May 09 2026 | 20:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://sh4.shfiles.cfd/live/wwe/stream.m3u8?expires=1778337255&token=f15bc22ca0e51640a76fb16f83d0d79d516e27ab662c8161898cbaf97061dda4
+https://sh4.shfiles.cfd/live/wwe/stream.m3u8?expires=1778358470&token=e008081b113d00293cf5dbc8fef3d570ffb3d19b76c99b99e178c802a5afb93f
