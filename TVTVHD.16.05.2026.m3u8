@@ -624,212 +624,554 @@ https://tvtvhd.com/vivo/canales.php?stream=espn3_nl
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/canales.php?stream=espn3_nl
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa Ecuador: Astillero vs Guayaquil City | 20:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] FA Cup: Chelsea vs Manchester City | 14:00 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkycGw=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera Division: Libertad vs 2 de Mayo | 20:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] FA Cup: Chelsea vs Manchester City | 14:00 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mYW5hdGl6MQ==
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa de Brasil: Chapecoense vs Botafogo | 21:00 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] FA Cup: Chelsea vs Manchester City | 14:00 | OP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa de Brasil: Chapecoense vs Botafogo | 21:00 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] FA Cup: Chelsea vs Manchester City | 14:00 | OP4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera B: Tigres vs Envigado | 22:00 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] LaLiga SmartBank: Ceuta vs Málaga | 14:15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjE=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera B: Tigres vs Envigado | 22:00 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] LaLiga SmartBank: Cultural Leonesa vs Eibar | 14:15 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjI=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera B: Tigres vs Envigado | 22:00 | OP3
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] LaLiga SmartBank: Cultural Leonesa vs Eibar | 14:15 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxMg==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera B: Tigres vs Envigado | 22:00 | OP4
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Rugby: Top 14 – Castres vs Montpellier | 14:30 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mYW5hdGl6Mg==
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera División: Real Potosí vs ABB | 22:00 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Rugby: Top 14 – Castres vs Montpellier | 14:30 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera División: Real Potosí vs ABB | 22:00 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Rugby: Top 14 – Castres vs Montpellier | 14:30 | OP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera División: Real Potosí vs ABB | 22:00 | OP3
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: Boston River vs Cerro | 15:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxMw==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa de Brasil: Atlético Goianiense vs Athletico-PR | 22:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Segunda División: River Plate vs Paysandu | 15:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTI=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk0
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa de Brasil: Confiança vs Grêmio | 22:00 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Tenis – WTA Internazionali BNL d’Italia – Final | 15:00 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1hbWF6b25fcHJpbWUx
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNA==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa de Brasil: Confiança vs Grêmio | 22:00 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Tenis – WTA Internazionali BNL d’Italia – Final | 15:00 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVudG9zNg==
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNA==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa de Brasil: Corinthians vs Barra | 22:30
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Tenis – WTA Internazionali BNL d’Italia – Final | 15:00 | OP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1hbWF6b25fcHJpbWUy
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG40
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa de Brasil: CRB vs Fortaleza | 23:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1hbWF6b25fcHJpbWUx
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] NHL: Ducks vs. Golden Knights - Playoffs | 23:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BucGx1czI=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] NHL: Sabres vs Canadiens - Playoffs | 23:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BucGx1czE=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera División: Oriente Petrolero vs Guabirá | 00:00 | OP1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera División: Oriente Petrolero vs Guabirá | 00:00 | OP2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera División: Oriente Petrolero vs Guabirá | 00:00 | OP3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa de Brasil: Vitória vs Flamengo | 00:00 | OP1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa de Brasil: Vitória vs Flamengo | 00:00 | OP2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa de Brasil: Vitória vs Flamengo | 00:00 | OP3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Copa de Brasil: Vitória vs Flamengo | 00:00 | OP4
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Pro League: Al Hilal vs NEOM | 16:05 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] NBA – Semifinales de Conferencia – Juego #6 – A Confirmar | 00:00 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Pro League: Al Hilal vs NEOM | 16:05 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Pro League: Al Hilal vs NEOM | 16:05 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Pro League: Al Hilal vs NEOM | 16:05 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Pro League: Al Hilal vs NEOM | 16:05 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzb2NjZXJwbHVz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] LaLiga SmartBank: Racing Santander vs Real Valladolid | 16:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjE=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] LaLiga SmartBank: Racing Santander vs Real Valladolid | 16:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] LaLiga SmartBank: Granada vs Burgos | 16:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] LaLiga SmartBank: Almería vs Las Palmas | 16:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjI=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] LaLiga SmartBank: Almería vs Las Palmas | 16:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Premier Padel Buenos Aires – Semifinales Femeninas | 16:35 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Premier Padel Buenos Aires – Semifinales Femeninas | 16:35 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Premier Padel Buenos Aires – Semifinales Femeninas | 16:35 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Golf: PGA Championship – Segunda Vuelta | 17:00 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] NBA – Semifinales de Conferencia – Juego #6 – A Confirmar | 00:00 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Golf: PGA Championship – Segunda Vuelta | 17:00 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] NBA – Semifinales de Conferencia – Juego #6 – A Confirmar | 00:00 | OP3
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Golf: PGA Championship – Segunda Vuelta | 17:00 | OP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera B: Deportes Quindío vs Internacional Palmira | 00:45 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] AFC Champions League Two: Al Nassr vs Gamba Osaka | 17:45 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuM214
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] AFC Champions League Two: Al Nassr vs Gamba Osaka | 17:45 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMl9ubA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] AFC Champions League Two: Al Nassr vs Gamba Osaka | 17:45 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxNw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga 1: Melgar vs Sport Huancayo | 18:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga 1: Melgar vs Sport Huancayo | 18:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga 1: Melgar vs Sport Huancayo | 18:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWxpZ2ExbWF4
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: Juventud vs Progreso | 18:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxOA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Pro League: Al-Ahli vs Al Kholood | 18:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Pro League: Al-Ahli vs Al Kholood | 18:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Pro League: Al-Ahli vs Al Kholood | 18:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Pro League: Al-Ahli vs Al Kholood | 18:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzb2NjZXJwbHVz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga 2: Alianza Universidad vs Estudiantil CNI | 18:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1nb2x0dg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Eerste Divisie: Willem II vs Almere City | 18:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMV9ubA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Eerste Divisie: Willem II vs Almere City | 18:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMV9ubA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Eerste Divisie: Willem II vs Almere City | 18:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4xX25s
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Serie A Fecha #36 – | 18:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Serie A Fecha #36 – | 18:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Serie A Fecha #36 – | 18:30 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Copa de la Reina: Barcelona vs Atletico Madrid | 19:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxOQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Copa de la Reina: Barcelona vs Atletico Madrid | 19:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Copa de la Reina: Barcelona vs Atletico Madrid | 19:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Copa de la Reina: Barcelona vs Atletico Madrid | 19:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Copa de la Reina: Barcelona vs Atletico Madrid | 19:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Copa de la Reina: Barcelona vs Atletico Madrid | 19:00 | OP6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Copa de la Reina: Barcelona vs Atletico Madrid | 19:00 | OP7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Segunda División: Deportivo Colonia vs Plaza Colonia | 19:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkyMA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Serie A: Macará vs Independiente del Valle | 19:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: Universitario de Vinto vs Bolívar | 19:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: Universitario de Vinto vs Bolívar | 19:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: Universitario de Vinto vs Bolívar | 19:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Premier Padel Buenos Aires – Semifinales Masculinas | 20:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Premier Padel Buenos Aires – Semifinales Masculinas | 20:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Premier Padel Buenos Aires – Semifinales Masculinas | 20:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga 2: Comerciantes vs Binacional | 20:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1nb2x0dg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga 1: Juan Pablo II College vs Alianza Atlético | 20:15 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga 1: Juan Pablo II College vs Alianza Atlético | 20:15 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga 1: Juan Pablo II College vs Alianza Atlético | 20:15 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWxpZ2ExbWF4
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Copa Colombia: Cúcuta Deportivo vs Leones | 20:30 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera B: Deportes Quindío vs Internacional Palmira | 00:45 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Copa Colombia: Cúcuta Deportivo vs Leones | 20:30 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Primera B: Deportes Quindío vs Internacional Palmira | 00:45 | OP3
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Copa Colombia: Cúcuta Deportivo vs Leones | 20:30 | OP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Liga MX: Pachuca vs Pumas UNAM | 01:00 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: Real Oruro vs Always Ready | 21:15 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10dWRu
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Liga MX: Pachuca vs Pumas UNAM | 01:00 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: Real Oruro vs Always Ready | 21:15 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Liga MX: Pachuca vs Pumas UNAM | 01:00 | OP3
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: Real Oruro vs Always Ready | 21:15 | OP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (14 May 2026)",[TVHD] Liga MX Femenil: Monterrey vs América | 03:10
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: O'Higgins vs Univ. Concepción | 21:30 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT12aXgx
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: O'Higgins vs Univ. Concepción | 21:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Serie A: Universidad Católica vs Delfin | 21:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: Peñarol vs Liverpool | 21:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Turf – The Preakness | 22:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Turf – The Preakness | 22:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Turf – The Preakness | 22:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga Profesional: River Plate vs Rosario Central | 22:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga Profesional: River Plate vs Rosario Central | 22:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga Profesional: River Plate vs Rosario Central | 22:30 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: Deportes Limache vs Universidad Católica | 00:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Primera División: Deportes Limache vs Universidad Católica | 00:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Serie A: Barcelona vs Aucas | 00:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga de Expansión MX: Tepatitlán vs CDS Tampico Madero | 01:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BubXg=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga de Expansión MX: Tepatitlán vs CDS Tampico Madero | 01:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga de Expansión MX: Tepatitlán vs CDS Tampico Madero | 01:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5teA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga MX: Guadalajara vs Cruz Azul | 01:05 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT11bml2ZXJzbw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (16 May 2026)",[TVHD] Liga MX: Guadalajara vs Cruz Azul | 01:05 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8=
