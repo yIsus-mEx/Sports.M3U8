@@ -4,70 +4,100 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho1.hocloud.cfd/live/2/stream.m3u8?expires=1779753605&token=222a9dde7e300369adcfcc8f9339f92c3493575d3081a68574cf385072244d98
+https://ho1.hocloud.cfd/live/1/stream.m3u8?expires=1779836308&token=3b9e1b258986e8ca4344a51041ef81f10a321ad6a055fba65da3105fa8f644f2
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Tampa Bay Rays vs Baltimore Orioles | May 26 2026 | 18:35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://ho1.hocloud.cfd/live/2/stream.m3u8?expires=1779836299&token=ee14ec76a3d2afb504cdb01749999249d35760aa3a5ea8a9963337fd610c16f1
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Los Angeles Angels vs Detroit Tigers | May 26 2026 | 18:40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://ho1.hocloud.cfd/live/3/stream.m3u8?expires=1779836292&token=0dffb04534a84450405486f125c871eed8da7d89444b893648db8f9c42aeb350
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Chicago Cubs vs Pittsburgh Pirates | May 26 2026 | 18:40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho1.hocloud.cfd/live/3/stream.m3u8?expires=1779753883&token=1ad55c115503e5b07279a2d7ae2af5100f25d092a59fb03dcc6c083215689318
+https://ho1.hocloud.cfd/live/4/stream.m3u8?expires=1779836289&token=6385b327963fc6a9fc6fcdda283f36dbc3b8a16e0b7cff25dc3c0f03242609bb
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Philadelphia Phillies vs San Diego Padres | May 26 2026 | 18:40
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Atlanta Braves vs Boston Red Sox | May 26 2026 | 18:45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho1.hocloud.cfd/live/4/stream.m3u8?expires=1779753585&token=b795b1e3885c9535b0e7d2498c70024bb54e87afc8db76e851128aaa59157c63
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Texas Rangers | May 26 2026 | 19:05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-#EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho1.hocloud.cfd/live/5/stream.m3u8?expires=1779753976&token=d91f5dd9c6ffb6c599deeb6b783d687a9fcc4e532f108f16b596322bfe032dc5
+https://ho1.hocloud.cfd/live/5/stream.m3u8?expires=1779836331&token=69b5fe5d0eb4c0aaa76e08dd37c18ce5ed4cfaa177529e8fd78bd62d2c88fea0
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Miami Marlins vs Toronto Blue Jays | May 26 2026 | 19:07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho2.hocloud.cfd/live/6/stream.m3u8?expires=1779753575&token=2249ff72002717cabd8708b4f6108937a8213eacecd59496f0abc3312e6b4ec4
+https://ho2.hocloud.cfd/live/6/stream.m3u8?expires=1779836890&token=419af394950441106bda26090bddcadd805ed787170d9d9b99f4ed48248efbc2
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Colorado Rockies vs Los Angeles Dodgers | May 26 2026 | 21:10
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Cincinnati Reds vs New York Mets | May 26 2026 | 19:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho2.hocloud.cfd/live/7/stream.m3u8?expires=1779753977&token=4eff00f23d3939173cc4cc618825fccbb93073c48fa005d388a1eeef1e95ec0d
+https://ho2.hocloud.cfd/live/7/stream.m3u8?expires=1779837077&token=b6f78f7bdb03247abd3e74778004975e65f9027b9fe1146b1d713fa1db8932df
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] New York Yankees vs Kansas City Royals | May 26 2026 | 19:40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://ho2.hocloud.cfd/live/8/stream.m3u8?expires=1779837652&token=a96d30c82ff52a98b26580a2b954658309da6e4d0413ca9be080bfe97737defd
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Minnesota Twins vs Chicago White Sox | May 26 2026 | 19:40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://ho2.hocloud.cfd/live/9/stream.m3u8?expires=1779836349&token=c3ec05d9fb21147293b8167ceef96e3a379e2c62ed997b410f4abacfde41480b
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] St. Louis Cardinals vs Milwaukee Brewers | May 26 2026 | 19:40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://ho2.hocloud.cfd/live/10/stream.m3u8?expires=1779837214&token=1d38c513dc4c0f1efeb97f08f94a0763b4a691b451371289e91e71f8861428f9
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Texas Rangers | May 26 2026 | 20:05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://ho2.hocloud.cfd/live/11/stream.m3u8?expires=1779838132&token=85b4a433af32c11eb9d50ab9ad6beb2992cbd721651bed11a05f2ccca474c42a
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Philadelphia Phillies vs San Diego Padres | May 26 2026 | 21:40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+https://ho3.hocloud.cfd/live/12/stream.m3u8?expires=1779838134&token=34183bdc770d07a4eadb585ed2b04807c5f905df7db64fdc1f8d271788465acf
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Seattle Mariners vs Athletics | May 26 2026 | 21:40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho2.hocloud.cfd/live/8/stream.m3u8?expires=1779753977&token=31e833209b29f0006f80075390301a3249bc36ef64310f3ce30713afbee60d44
+https://ho3.hocloud.cfd/live/13/stream.m3u8?expires=1779838135&token=417dcbc0256d24fb28073e5dd830a98287a962d0e2df025d7172964363c606f2
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] New York Knicks vs Cleveland Cavaliers | May 26 2026 | 20:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Arizona Diamondbacks vs San Francisco Giants | May 26 2026 | 21:45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nh1.hocloud.cfd/live/espn/stream.m3u8?expires=1779753578&token=37d86899eb5d0fe6982dda529fb1bec9ce01eb4bcc3e5d9dac289e1042bedc9e
+https://ho3.hocloud.cfd/live/14/stream.m3u8?expires=1779838136&token=45a23f31766dfbec54c592145e75c01588ad65b3717cf165792e2581f8552678
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Carolina Hurricanes vs Montreal Canadiens | May 26 2026 | 20:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Colorado Rockies vs Los Angeles Dodgers | May 26 2026 | 22:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nh5.hocloud.cfd/live/tnt/stream.m3u8?expires=1779753625&token=11726ee0d7a2911d2a3de0d089d256af03e195c0d6bb2945d303e526c970b361
+https://ho3.hocloud.cfd/live/15/stream.m3u8?expires=1779837857&token=95e2e03e9d2f9f6d86188f601711816c27f4aa077733c4ce599999f07f05dea8
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-title="WNBA EN VIVO",[WNBA] Portland Fire vs New York Liberty | May 26 2026 | 20:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] San Antonio Spurs vs Oklahoma City Thunder | May 26 2026 | 20:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nh4.hocloud.cfd/live/liberty/stream.m3u8?expires=1779753963&token=510b643b75b597d16ca90fa25151609a9558115f17bc6403133f1e6dca97ff26
+https://nh1.hocloud.cfd/live/nbc/stream.m3u8?expires=1779836825&token=6ad35156e11fea5fcf98ffdd4b7be7fb9f7c8981bc960bc29dffefe31e08c19e
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-title="WNBA EN VIVO",[WNBA] Connecticut Sun vs Golden State Valkyries | May 26 2026 | 22:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Colorado Avalanche vs Vegas Golden Knights | May 26 2026 | 21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nh4.hocloud.cfd/live/golden/stream.m3u8?expires=1779753977&token=e59f069160cf927869bdfb95236867f33b50d5baac1b27bdd39882e413858b8a
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/6qSf2mz5/WWE.png" group-logo="https://i.postimg.cc/6qSf2mz5/WWE.png" group-title="WWE EN VIVO",[WWE] Monday Night Raw | May 26 2026 | 20:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-#EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nh5.hocloud.cfd/live/wwe/stream.m3u8?expires=1779753721&token=f49a03d5e73aa47a4e36ef42fea82b073c7d564601e5e1537ee5b318ba2868a1
+https://nh5.hocloud.cfd/live/espn/stream.m3u8?expires=1779838133&token=8029e89cd5e3bee265d0fa3ab7c1d1b2010e21656396e5d3f9200bb3d6c40f2b
