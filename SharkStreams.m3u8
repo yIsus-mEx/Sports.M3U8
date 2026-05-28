@@ -4,52 +4,52 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho1.hocloud.cfd/live/1/stream.m3u8?expires=1779988463&token=d9eb42e44a006f1f9b3edaf79cc8957470bbf98c307767a2fafc58b5cc6976ae
+https://ho1.hocloud.cfd/live/1/stream.m3u8?expires=1780009086&token=f9522c94af5067def8d38ba8bb25a2f27e1e74c7584b651e14f23828dc0e72bd
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Minnesota Twins vs Chicago White Sox | May 28 2026 | 14:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho1.hocloud.cfd/live/2/stream.m3u8?expires=1779992205&token=a05759610b7ee1f037d428c29c89b3dabe051384df49436c656507020dd002c6
+https://ho1.hocloud.cfd/live/2/stream.m3u8?expires=1780008615&token=af022ed405f84655aafd3262a21020f7e7599554978b47a4add44403142690cb
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Atlanta Braves vs Boston Red Sox | May 28 2026 | 16:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho1.hocloud.cfd/live/3/stream.m3u8?expires=1779989786&token=485bfb158ad5ea434cf23e73d7aa0b8406cd0fa05deb58d081ee7f7d855278d7
+https://ho1.hocloud.cfd/live/3/stream.m3u8?expires=1780007982&token=af277cfad6f6d293eee525818e15d4cd4edeffe251fa1e9b4a8b413599ea9de8
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Toronto Blue Jays vs Baltimore Orioles | May 28 2026 | 18:35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho1.hocloud.cfd/live/4/stream.m3u8?expires=1779992205&token=82530c755aca190f26dd5e8195381a7b54ae6301cb18092365df160045aef750
+https://ho1.hocloud.cfd/live/4/stream.m3u8?expires=1780008189&token=16d5c1a880006229f54c7d6a06bf92d9ca699b533ebe7942b6178bbe70bdc8a2
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Chicago Cubs vs Pittsburgh Pirates | May 28 2026 | 18:40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho1.hocloud.cfd/live/5/stream.m3u8?expires=1779992206&token=2e39822b45f1ff31e15a2cf43e10c430b6f0fe5a51db4f684e587e4ba73917ac
+https://ho1.hocloud.cfd/live/5/stream.m3u8?expires=1780008556&token=2b38ae885dbe0b2eba4757e08a19b757f4242876188bc1ab4881cf2e0b4a261f
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Texas Rangers | May 28 2026 | 20:05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://ho2.hocloud.cfd/live/6/stream.m3u8?expires=1779988922&token=dab942a277e6798b44f7bf61cdcf5a26818dd095ae43e0c435fd8ad617ba6377
+https://ho2.hocloud.cfd/live/6/stream.m3u8?expires=1780008472&token=22b6ccdb4600885ce6895037abc58862266272e09902f2da911dd7b7887b9906
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] Oklahoma City Thunder vs San Antonio Spurs | May 28 2026 | 20:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nh1.hocloud.cfd/live/thunder/stream.m3u8?expires=1779992207&token=8e010ab6baac17249b26517c2309929547bf1c4cb54862a3ff60c3843401a204
+https://nh1.hocloud.cfd/live/thunder/stream.m3u8?expires=1780007964&token=825d9eb043cbb22788f04be76cdf4f931894704191d63b102a29afa9ff1744f9
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-title="WNBA EN VIVO",[WNBA] Las Vegas Aces vs Dallas Wings | May 28 2026 | 20:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nh4.hocloud.cfd/live/wings/stream.m3u8?expires=1780001781&token=3e953e96f2a8bb501ff18c8ac0f77842940fc8cbd1468983d2d36860012d7eeb
+https://nh4.hocloud.cfd/live/wings/stream.m3u8?expires=1780011208&token=963c8126f92bd54eb74f889fc623e777f89a921089886156b1f03943cc12e2c6
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-logo="https://i.postimg.cc/VvhGXRmF/WNBA.png" group-title="WNBA EN VIVO",[WNBA] Indiana Fever vs Golden State Valkyries | May 28 2026 | 22:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://nh4.hocloud.cfd/live/fever/stream.m3u8?expires=1779988891&token=66ed626c76aea54156c8b1b361d437053c63217ba944d75ab0dd0f63d0b09740
+https://nh4.hocloud.cfd/live/fever/stream.m3u8?expires=1780011210&token=65efe4cf7df7fae8aaf8e642483d1d3fca36f9be00a96d240f2551d3987a54be
