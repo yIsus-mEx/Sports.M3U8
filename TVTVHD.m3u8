@@ -624,86 +624,302 @@ https://tvtvhd.com/vivo/canales.php?stream=espn3_nl
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/canales.php?stream=espn3_nl
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Copa Ecuador: Deportivo Cuenca Juniors vs Macará | 23:30 | OP1
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Georgia vs Bahréin | 16:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjM=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Copa Ecuador: Deportivo Cuenca Juniors vs Macará | 23:30 | OP2
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Bielorrusia vs Siria | 16:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXky
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: República Checa vs Guatemala | 00:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: México vs Serbia | 02:00 | OP1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: México vs Serbia | 02:00 | OP2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1henRlY2E3
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: México vs Serbia | 02:00 | OP3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: México vs Serbia | 02:00 | OP4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWF6dGVjYTc=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: México vs Serbia | 02:00 | OP5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10dWRu
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: México vs Serbia | 02:00 | OP6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: México vs Serbia | 02:00 | OP7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvtvhd.com/
-#EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4=
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: México vs Serbia | 02:00 | OP8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Torneo Maurice Revello: Arabia Saudita Sub-23 vs Túnez Sub-20 | 16:30 | OP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: México vs Serbia | 02:00 | OP9
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Torneo Maurice Revello: Arabia Saudita Sub-23 vs Túnez Sub-20 | 16:30 | OP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: México vs Serbia | 02:00 | OP10
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Torneo Maurice Revello: Arabia Saudita Sub-23 vs Túnez Sub-20 | 16:30 | OP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
 https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (04 Jun 2026)",[TVHD] Amistoso: México vs Serbia | 02:00 | OP11
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Eslovaquia vs Montenegro | 16:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvtvhd.com/
 #EXTVLCOPT:http-origin=https://tvtvhd.com
-https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT11bml2aXNpb24=
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Tenis – Roland Garros – Día #13 – Semifinal Masculina #2 | 17:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Tenis – Roland Garros – Día #13 – Semifinal Masculina #2 | 17:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Tenis – Roland Garros – Día #13 – Semifinal Masculina #2 | 17:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: San Marino vs Bangladésh | 17:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk3
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Moldavia vs Bulgaria | 17:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk4
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Hungría vs Finlandia | 17:45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk0
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Golf – U.S. Women’s Open Golf Championship – Segunda Vuelta | 18:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Golf – U.S. Women’s Open Golf Championship – Segunda Vuelta | 18:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Golf – U.S. Women’s Open Golf Championship – Segunda Vuelta | 18:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Golf – The Memorial Tournament – Segunda Vuelta | 18:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Golf – The Memorial Tournament – Segunda Vuelta | 18:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Golf – The Memorial Tournament – Segunda Vuelta | 18:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG40
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Azerbaiyán vs Malta | 18:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk1
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Clasificatorias para el Mundial Femenino de la FIFA: Bélgica vs Luxemburgo | 18:15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Clasificatorias para el Mundial Femenino de la FIFA: Alemania vs Noruega | 18:35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Clasificatorias para el Mundial Femenino de la FIFA: España vs Inglaterra | 19:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Rugby – SR Americas – Peñarol Rugby vs Pampas | 19:55 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Rugby – SR Americas – Peñarol Rugby vs Pampas | 19:55 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Rugby – SR Americas – Peñarol Rugby vs Pampas | 19:55 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG41
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Rugby – SR Americas – Dogos XV vs Yacare XV | 22:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Rugby – SR Americas – Dogos XV vs Yacare XV | 22:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Rugby – SR Americas – Dogos XV vs Yacare XV | 22:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG40
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Primera División: Wanderers vs Danubio | 22:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk2
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] CONMEBOL Nations League Femenina: Chile vs Ecuador | 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Puerto Rico vs Arabia Saudita | 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] CONMEBOL Nations League Femenina: Argentina vs Perú | 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] CONMEBOL Nations League Femenina: Bolivia vs Paraguay | 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] CONMEBOL Nations League Femenina: Colombia vs Uruguay | 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] ESPN Knockout – Edward Vazquez vs Daniel Lugo | 23:30 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] ESPN Knockout – Edward Vazquez vs Daniel Lugo | 23:30 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] ESPN Knockout – Edward Vazquez vs Daniel Lugo | 23:30 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Haití vs Perú | 00:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1hbWVyaWNhdHY=
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Haití vs Perú | 00:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1tb3Zpc3Rhcg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Haití vs Perú | 00:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1tb3Zpc3Rhcg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Haití vs Perú | 00:00 | OP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1tb3Zpc3Rhcg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Haití vs Perú | 00:00 | OP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Haití vs Perú | 00:00 | OP6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Haití vs Perú | 00:00 | OP7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Amistoso: Haití vs Perú | 00:00 | OP8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Copa de la Liga: Deportes Concepción vs Coquimbo Unido | 00:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Copa de la Liga: Deportes Concepción vs Coquimbo Unido | 00:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Rugby – SR Americas – Tarucas vs Capibaras XV | 00:00 | OP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Rugby – SR Americas – Tarucas vs Capibaras XV | 00:00 | OP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNA==
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="🏆 Eventos (05 Jun 2026)",[TVHD] Rugby – SR Americas – Tarucas vs Capibaras XV | 00:00 | OP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvtvhd.com/
+#EXTVLCOPT:http-origin=https://tvtvhd.com
+https://tvtvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG40
