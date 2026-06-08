@@ -1,79 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/yNSMvz01/motogp-logo.png" group-title="MotorSport EN VIVO",[MotorSport] MotoGP - Coverage | Jun 07 12:40 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.thelistener.pk/tnt2.m3u8
-
 #EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/76Zgqq9R/F1.png" group-title="MotorSport EN VIVO",[MotorSport] Formula 1 - Monaco Grand Prix | Jun 07 06:00 AM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 https://daffodil.thelistener.pk/f1.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/m2B50qH1/UFC.png" tvg-logo="https://i.postimg.cc/m2B50qH1/UFC.png" group-title="Fighting EN VIVO",[Fighting] WWE RAW | Jun 08 05:00 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/76Zgqq9R/F1.png" group-title="MotorSport EN VIVO",[MotorSport] Formula 1 - Monaco Grand Prix | Jun 07 06:00 AM [ESP 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.thelistener.pk/wwe.m3u8
+https://601.thelistener.pk/f1tv.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/B2GbPwCt/2ac8bb307322.png" group-title="MLB EN VIVO",[MLB] Seattle Mariners vs Baltimore Orioles | Jun 08 03:35 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/fdkh1H2X/cd431d6294f4.png" group-title="MLB EN VIVO",[MLB] Seattle Mariners vs Baltimore Orioles | Jun 08 03:35 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.sandhost.qzz.io/mlb.m3u8
+https://601.formaturamaxi.com.br/mlb.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/cXcVVJgG/8493f6be0c00.png" group-title="MLB EN VIVO",[MLB] Boston Red Sox vs Tampa Bay Rays | Jun 08 03:40 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.sandhost.qzz.io/mlb2.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/vCcZsLMM/534c65f74911.png" group-title="MLB EN VIVO",[MLB] New York Yankees vs Cleveland Guardians | Jun 08 03:40 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/twB4MGCq/a0dc90e5e951.png" group-title="MLB EN VIVO",[MLB] New York Yankees vs Cleveland Guardians | Jun 08 03:40 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 https://601.formaturamaxi.com.br/mlb3.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/7J3gsQXT/c9f30b324b61.png" group-title="MLB EN VIVO",[MLB] Philadelphia Phillies vs Toronto Blue Jays | Jun 08 04:07 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/tMPwgNft/000f6c23cdac.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Los Angeles Angels | Jun 08 06:38 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.thelistener.pk/mlb4.m3u8
+https://601.formaturamaxi.com.br/mlb5.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/dw3TZW93/845d4d2c4af1.png" group-title="MLB EN VIVO",[MLB] Washington Nationals vs San Francisco Giants | Jun 08 06:45 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/83h2rLH/56b47de1deca.png" group-title="MLB EN VIVO",[MLB] Cincinnati Reds vs San Diego Padres | Jun 08 06:40 PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.formaturamaxi.com.br/mlb6.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/hFRndmK9/04d7b154212f.png" group-title="MLB EN VIVO",[MLB] Washington Nationals vs San Francisco Giants | Jun 08 06:45 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 https://601.formaturamaxi.com.br/mlb7.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" tvg-logo="https://i.ibb.co/DgP4s0tL/5ddde9468590.png" group-title="NBA EN VIVO",[NBA] San Antonio Spurs vs New York Knicks | Jun 08 05:30 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.thelistener.pk/nba.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" tvg-logo="https://i.ibb.co/DgP4s0tL/5ddde9468590.png" group-title="NBA EN VIVO",[NBA] San Antonio Spurs vs New York Knicks | Jun 08 05:30 PM [ESP 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.formaturamaxi.com.br/nbaalt.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" tvg-logo="https://i.ibb.co/DgP4s0tL/5ddde9468590.png" group-title="NBA EN VIVO",[NBA] San Antonio Spurs vs New York Knicks | Jun 08 05:30 PM [ESP 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://daffodil.formaturamaxi.com.br/nba2.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.ibb.co/hRPvQMKm/996dcff84581.png" group-title="Soccer EN VIVO",[Soccer] France vs Northern Ireland | Jun 08 12:10 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.ibb.co/hRPvQMKm/996dcff84581.png" group-title="Soccer EN VIVO",[Soccer] France vs Northern Ireland | Jun 08 12:10 PM [ESP 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.sandhost.qzz.io/sky2.m3u8
