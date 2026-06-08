@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/7JV44Rp2/750705763371.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] San Antonio Spurs vs New York Knicks | June 08 2026 | 20:30
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/QR2fpB3/bff28442a4bc.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] San Antonio Spurs vs New York Knicks | June 08 2026 | 20:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://lba2.lefiles.cfd/live/spurs/stream.m3u8?expires=1780953600&token=3deb3e1f86a3f7cd84d28487a1644c40c280f13fd9cf4b201d5dbba7b02291b6
+https://lba2.lefiles.cfd/live/spurs/stream.m3u8?expires=1780954596&token=029ddefdf86fadf492423efca1ce5185213c818a073f4e547c0f583d99ece418
