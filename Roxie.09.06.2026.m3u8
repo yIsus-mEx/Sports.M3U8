@@ -1,67 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/yNSMvz01/motogp-logo.png" group-title="MotorSport EN VIVO",[MotorSport] MotoGP - Coverage | Jun 07 12:40 AM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/qYYzMWZ0/05e5f20e0093.png" group-title="MLB EN VIVO",[MLB] Seattle Mariners vs Baltimore Orioles | Jun 09 03:35 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.formaturamaxi.com.br/tnt2.m3u8
+https://601.formaturamaxi.com.br/mlb.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/yNSMvz01/motogp-logo.png" group-title="MotorSport EN VIVO",[MotorSport] MotoGP - Coverage | Jun 07 12:40 AM [ESP 2]
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/DH04V5Dv/493d88a6024d.png" group-title="MLB EN VIVO",[MLB] Minnesota Twins vs Detroit Tigers | Jun 09 03:40 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://daffodil.thelistener.pk/fs2.m3u8
+https://601.thelistener.pk/mlb4.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/76Zgqq9R/F1.png" group-title="MotorSport EN VIVO",[MotorSport] MotoGP - Hungary Grand Prix | Jun 07 05:00 AM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/zWWprSHb/18b3742a17e7.png" group-title="MLB EN VIVO",[MLB] St. Louis Cardinals vs New York Mets | Jun 09 04:10 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.formaturamaxi.com.br/tnt2.m3u8
+https://601.formaturamaxi.com.br/mlb8.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/76Zgqq9R/F1.png" group-title="MotorSport EN VIVO",[MotorSport] MotoGP - Hungary Grand Prix | Jun 07 05:00 AM [ESP 2]
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/4ZFc8wWr/2e227d5adfb9.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Los Angeles Angels | Jun 09 06:38 PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.formaturamaxi.com.br/mlb12.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.ibb.co/spj5GrjV/a374ba690e24.png" group-title="Soccer EN VIVO",[Soccer] Hungary vs Kazakhstan | Jun 09 10:00 AM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 https://daffodil.formaturamaxi.com.br/fs2.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/d34QwKWW/Indy-NXT-logo.png" group-title="MotorSport EN VIVO",[MotorSport] INDY NXT - Race | Jun 07 02:35 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.ibb.co/yFCXbzTk/49de549f0b5b.png" group-title="Soccer EN VIVO",[Soccer] Argentina vs Iceland | Jun 09 06:00 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://daffodil.thelistener.pk/f1.m3u8
+https://daffodil.formaturamaxi.com.br/dep.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/d34QwKWW/Indy-NXT-logo.png" group-title="MotorSport EN VIVO",[MotorSport] INDY NXT - Race | Jun 07 02:35 PM [ESP 2]
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.ibb.co/QFh36v6z/344fe45161ad.png" group-title="Soccer EN VIVO",[Soccer] Iraq vs Venezuela | Jun 09 06:00 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.formaturamaxi.com.br/f1.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/m2B50qH1/UFC.png" tvg-logo="https://i.postimg.cc/m2B50qH1/UFC.png" group-title="Fighting EN VIVO",[Fighting] WWE NXT | Jun 09 05:00 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.thelistener.pk/wwe.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/9m6W3d9g/7bf305f32302.png" group-title="MLB EN VIVO",[MLB] New York Yankees vs Cleveland Guardians | Jun 09 03:40 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.formaturamaxi.com.br/mlb6.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.ibb.co/fYKRg7zz/1dc735e7cf2c.png" group-title="Soccer EN VIVO",[Soccer] Armenia vs Moldova | Jun 09 08:00 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://daffodil.formaturamaxi.com.br/fsp.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.ibb.co/bRRv1kX8/ae75828207d1.png" group-title="Soccer EN VIVO",[Soccer] Belarus vs Burkina Faso | Jun 09 09:30 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://daffodil.formaturamaxi.com.br/fs2.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.ibb.co/KJstBFV/d9b51a502f27.png" group-title="Soccer EN VIVO",[Soccer] Iraq vs Venezuela | Jun 09 06:00 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.sandhost.qzz.io/england.m3u8
+https://601.formaturamaxi.com.br/vene.m3u8
