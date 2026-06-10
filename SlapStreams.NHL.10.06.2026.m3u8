@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/67PMZNSf/7e49115126b0.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 10 2026 | 5:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/QjcCqvv2/23eb5e30cef0.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 10 2026 | 5:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=Eekfztn6650i9De1EO_Fvk7Vr0_4y4gYqYXfKWkYZ-A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l%2F&expires=1781130836/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l/92.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=e23uPUb536zGCaj6WpCeBmBBqJKIWeSyyWuLMUj_jno&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l%2F&expires=1781141880/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l/92.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/67PMZNSf/7e49115126b0.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 10 2026 | 5:00 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/QjcCqvv2/23eb5e30cef0.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 10 2026 | 5:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=ceMGDZT_oLKSMkIPbyW3-UF_acM9lgKL1fWLx8cCnQ0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q%2F&expires=1781130843/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q/96.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=qO2mgXpTwN4cezMj2dZ2pijxn7hGFmz08f4lKIgnR8Q&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q%2F&expires=1781141886/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7Os5fYgy6wAOP9tpsG03Q/96.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/67PMZNSf/7e49115126b0.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 10 2026 | 5:00 PM (HOME)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/QjcCqvv2/23eb5e30cef0.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 10 2026 | 5:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://edge2caster.pro/hls/uyopzarf50.m3u8?st=5jbtmfcoheakliL-XkZDrVCay12oR8XIilEUVl82jR0&e=1781127250
+https://mainstreams.pro/hls/uyopzarf50.m3u8?st=make09rAe6y7D7P5OCtyeVc2S7CW2d7CJzAYJFz0Q2s&e=1781138293
 
-#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/67PMZNSf/7e49115126b0.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 10 2026 | 5:00 PM (AWAY)
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://i.ibb.co/QjcCqvv2/23eb5e30cef0.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 10 2026 | 5:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://edgestreams.pro/hls/uyopzarf50.m3u8?st=ARqDKYU1CTn-SqaZnc1XLio2LXXLNm5kUhsWTkXwQVA&e=1781127255
+https://mainstreams.pro/hls/uyopzarf50.m3u8?st=Kb4RZ90BGzSCrlt4SIj13WiQ30H7UmyO7FnZXLdFuu0&e=1781138299
