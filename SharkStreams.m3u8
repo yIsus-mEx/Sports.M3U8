@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/rGGsLX8r/ca2d9d9611f4.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 11 2026 | 20:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/jp31QLv/b5c7b4018f55.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 11 2026 | 20:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://lba4.lefiles.cfd/live/knights/stream.m3u8?expires=1781214399&token=52aa68be7bfa9b71a88ee364fda1f3d58e4f7b3c32b261fb042d7876e1b6e676
+https://lba4.lefiles.cfd/live/knights/stream.m3u8?expires=1781210170&token=67f569c6f9a79d0ef5c09ecb66e0dadc777443e8fe5fc553cb403520f0b826aa
