@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/v4FyFdqG/679dd0f5f52c.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 13 2026 | 20:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/1tpWTmj4/584b0554127a.png" group-logo="https://i.postimg.cc/N03NbPtR/NBA.png" group-title="NBA EN VIVO",[NBA] New York Knicks vs San Antonio Spurs | June 13 2026 | 20:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://lba4.lefiles.cfd/live/knights/stream.m3u8?expires=1781342210&token=8547cb25fc12e67e8e9613c0184e8057a2a47ec5f3aa9ced736a77ed7f1466a2
+https://lba2.lefiles.cfd/live/spurs/stream.m3u8?expires=1781385087&token=7912a8d93265ac06f9488c20f8e9fea72ea29fa56218312fed3a151dc2dee918
