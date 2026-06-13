@@ -1,31 +1,67 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/76Zgqq9R/F1.png" group-title="MotorSport EN VIVO",[MotorSport] Formula 1 - Free Practice 3 | Jun 13 04:30 AM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/76Zgqq9R/F1.png" group-title="MotorSport EN VIVO",[MotorSport] Formula 1 - Qualifying | Jun 13 08:00 AM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 https://daffodil.sandhost.dpdns.org/f1.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/m2B50qH1/UFC.png" tvg-logo="https://i.postimg.cc/m2B50qH1/UFC.png" group-title="Fighting EN VIVO",[Fighting] Bam vs. Vargas | Jun 13 05:00 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/76Zgqq9R/F1.png" group-title="MotorSport EN VIVO",[MotorSport] Formula 1 - Qualifying | Jun 13 08:00 AM [ESP 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.thelistener.pk/ppv3.m3u8
+https://601.sandhost.dpdns.org/f1.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/qLRvBG95/918d0df82861.png" group-title="MLB EN VIVO",[MLB] Seattle Mariners vs Washington Nationals | Jun 13 01:05 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/yNSMvz01/motogp-logo.png" group-title="MotorSport EN VIVO",[MotorSport] AMA Motocross - Qualifying | Jun 13 10:00 AM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.thelistener.pk/mlb4.m3u8
+https://ataide.formaturamaxi.com.br/sx.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/n8NPxNVV/c1633e3d07bc.png" group-title="MLB EN VIVO",[MLB] Tampa Bay Rays vs Los Angeles Angels | Jun 13 07:07 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/m2B50qH1/UFC.png" tvg-logo="https://i.postimg.cc/m2B50qH1/UFC.png" group-title="Fighting EN VIVO",[Fighting] Khamzat Chimaev vs. Danis (RAF) | Jun 13 05:00 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://601.formaturamaxi.com.br/mlb15.m3u8
+https://601.sandhost.dpdns.org/ncaa6.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Maurice Revello Tournament | Jun 13 04:30 AM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/m2B50qH1/UFC.png" tvg-logo="https://i.postimg.cc/m2B50qH1/UFC.png" group-title="Fighting EN VIVO",[Fighting] UFC Freedom 250: Topuria vs. Gaethje | Jun 14 05:00 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://daffodil.formaturamaxi.com.br/foxd.m3u8
+https://601.formaturamaxi.com.br/simplyataide.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/m2B50qH1/UFC.png" tvg-logo="https://i.postimg.cc/m2B50qH1/UFC.png" group-title="Fighting EN VIVO",[Fighting] UFC Freedom 250: Topuria vs. Gaethje | Jun 14 05:00 PM [ESP 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.formaturamaxi.com.br/sn.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/4g9qnmB5/d6d5a6109c71.png" group-title="MLB EN VIVO",[MLB] New York Yankees vs Toronto Blue Jays | Jun 13 12:07 PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.thelistener.pk/mlb2.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/zWccPgxS/f74de314809b.png" group-title="MLB EN VIVO",[MLB] Arizona Diamondbacks vs Cincinnati Reds | Jun 13 01:10 PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.formaturamaxi.com.br/mlb6.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/v61kRtKF/56ed2bbebac3.png" group-title="MLB EN VIVO",[MLB] Texas Rangers vs Boston Red Sox | Jun 13 01:10 PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.formaturamaxi.com.br/mlb8.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/4ZZsRpcL/749c48d66af2.png" group-title="MLB EN VIVO",[MLB] Los Angeles Dodgers vs Chicago White Sox | Jun 13 01:10 PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.formaturamaxi.com.br/mlb10.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.ibb.co/fYh35qgt/d5e220f9b9a2.png" group-title="MLB EN VIVO",[MLB] Houston Astros vs Kansas City Royals | Jun 13 04:10 PM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.formaturamaxi.com.br/mlb11.m3u8
