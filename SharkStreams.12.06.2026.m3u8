@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/wF8fW4hr/002e884a2db3.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Carolina Hurricanes | June 12 2026 | 20:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-#EXTVLCOPT:http-origin=https://sharkstreams.net
-https://lba4.lefiles.cfd/live/knights/stream.m3u8?expires=1781307310&token=75735895dbe2ec2b041b7b42cd220f807f3a422db5d0c896d14bdede77e5701e
