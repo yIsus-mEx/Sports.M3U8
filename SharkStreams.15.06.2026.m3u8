@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://lba4.lefiles.cfd/live/nhl/stream.m3u8?expires=1781498562&token=d795d7163341cc4a2b436e59d35ad0f7eaba8a165ed1c61ef95f3cf77be9dea3
+https://lba4.lefiles.cfd/live/nhl/stream.m3u8?expires=1781498589&token=2188aef2519fe73061d4ad7c1c8bdcc665e8795852c747049225436ceb1e89f2
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/wBGMpYBF/UFC.png" group-logo="https://i.postimg.cc/wBGMpYBF/UFC.png" group-title="UFC EN VIVO",[UFC] UFC Freedom 250: Topuria v. Gaethje | June 15 2026 | 20:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
