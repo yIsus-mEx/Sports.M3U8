@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.ibb.co/ZjH8ng0/3a741dc26c51.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Carolina Hurricanes vs Vegas Golden Knights | June 15 2026 | 20:00
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] Carolina Hurricanes vs Vegas Golden Knights | June 15 2026 | 20:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://lba4.lefiles.cfd/live/nhl/stream.m3u8?expires=1781498785&token=a5604ac44fd570c0858aa0a30a9b832f41e90a4ea57053e32ccd56d45be2388b
+https://lba4.lefiles.cfd/live/nhl/stream.m3u8?expires=1781498562&token=d795d7163341cc4a2b436e59d35ad0f7eaba8a165ed1c61ef95f3cf77be9dea3
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.postimg.cc/wBGMpYBF/UFC.png" group-logo="https://i.postimg.cc/wBGMpYBF/UFC.png" group-title="UFC EN VIVO",[UFC] UFC Freedom 250: Topuria v. Gaethje | June 15 2026 | 20:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
-https://lba9.lefiles.cfd/live/ufc/stream.m3u8?expires=1781498509&token=a910a012e45408bcd10f215ccbece8538efc2fed8dfdbc475285969748a8075b
+https://lba9.lefiles.cfd/live/ufc/stream.m3u8?expires=1781498510&token=97e321ad759fb4ef060308870dc7816dbf70ab3d0f605b1efdd3bd7ee61442d1
