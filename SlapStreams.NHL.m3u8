@@ -1,1 +1,49 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Edmonton Oilers | June 23 2026 | 5:00 PM (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-origin=https://slapstreams.com
+https://webcast-origin.b-cdn.net/bcdn_token=q7eob0OtUtlVp996dKdUFMrUvQ1fbEbvXs0t-VC_3A0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9%2F&expires=1782270717/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9/98.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Edmonton Oilers | June 23 2026 | 5:00 PM (AWAY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-origin=https://slapstreams.com
+https://webcast-origin.b-cdn.net/bcdn_token=SFiA4m4SQp1JT4v1FYUXrOxOrESEPIbkCtWd3VuW-GQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH%2F&expires=1782270723/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH/90.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Edmonton Oilers | June 23 2026 | 5:00 PM (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-origin=https://slapstreams.com
+https://edgestreams.pro/hls/hjksgdfauzy51.m3u8?st=mUY93y4FKdZdJSMreXSqK9jjgis0GyVTTIVr1AMw1rI&e=1782267130
+
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Edmonton Oilers | June 23 2026 | 5:00 PM (AWAY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-origin=https://slapstreams.com
+https://instreams.pro/US/NHL2/index.m3u8?st=8BB_n1VaYGiyBbgTwbFDhA&amp;e=1782267136
+
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Los Angeles Kings | June 23 2026 | 6:00 PM (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-origin=https://slapstreams.com
+https://webcast-origin.b-cdn.net/bcdn_token=ph3OA5hOPYjymk11qfTLGUHwILk3Dg4JA5YeimXMnOk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH9C1B1LYdxZv3QPXKN9R0E%2F&expires=1782270745/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH9C1B1LYdxZv3QPXKN9R0E/85.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Los Angeles Kings | June 23 2026 | 6:00 PM (AWAY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-origin=https://slapstreams.com
+https://webcast-origin.b-cdn.net/bcdn_token=BVDL1_z2vSXfTCAJNTGUAoeKSE9XiXnSbHhWi-aFyNE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH%2F&expires=1782270751/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH/84.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Los Angeles Kings | June 23 2026 | 6:00 PM (HOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-origin=https://slapstreams.com
+https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=sP1Z_hDDceKD0DEOwGI3dbNoqJP7Lp1PJL6lWrRdAUc&e=1782267157
+
+#EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Los Angeles Kings | June 23 2026 | 6:00 PM (AWAY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTVLCOPT:http-origin=https://slapstreams.com
+https://instreams.pro/US/NHL3/index.m3u8?st=taeqUhyNXH_H84mziWjm3g&amp;e=1782267163
