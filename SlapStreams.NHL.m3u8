@@ -4,118 +4,118 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=_mc5JTFdkZUqFkDXEGjDMBPA_JJYcUp2fhh2cxV-0Uw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEA0t2dzgdIdAKOwuMcH845%2F&expires=1782856535/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEA0t2dzgdIdAKOwuMcH845/167.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=izN3A-auwJqskjupFPo069eH1b39rKfJz6fJwXN65lI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEA0t2dzgdIdAKOwuMcH845%2F&expires=1782868273/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEA0t2dzgdIdAKOwuMcH845/167.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Toronto Maple Leafs | June 30 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=UWSMFoII6TC-cMid34d1jvoY4Cyl2IuEDD5qeV1-KmI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGkfQ_lFH5sJIifxNoW519s%2F&expires=1782856541/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGkfQ_lFH5sJIifxNoW519s/102.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=dtvck4kM73cX7_WadaJ63_fkxcU6R8Ew58_uqhZ-UkQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGkfQ_lFH5sJIifxNoW519s%2F&expires=1782868279/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGkfQ_lFH5sJIifxNoW519s/102.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Toronto Maple Leafs | June 30 2026 | 4:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://edge2caster.pro/hls/rtzaeyvhb53.m3u8?st=pS-hl4Iqke4xuj14XaCzwxlv627jFW-W2iSCsdghX2Q&e=1782852948
+https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=mv1NrWzOFx1rF3XFRgaVqmD82ZM5XHD2gMIahLUPfyE&e=1782864686
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Montreal Canadiens vs Toronto Maple Leafs | June 30 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://edgestreams.pro/hls/rtzaeyvhb53.m3u8?st=DnQRKFoAUT6Icpyfj7RDXHANej8HROfX7xyjnjlcU5k&e=1782852954
+https://edgestreams.pro/hls/rtzaeyvhb53.m3u8?st=Zir5orm_Tfbv5PO8dz3x97HgqZ2QK_wTYLKWX6Qaxjk&e=1782864691
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Toronto Maple Leafs vs Montreal Canadiens | June 30 2026 | 4:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=Pul6ihml_g1nvnn8OvU47W2wMF6xW_tFrMIlyaYDX4I&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d%2F&expires=1782856563/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d/87.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=2rwqTMilcXFfwkIIhUdnknHqVgqi86FrrXow9dgtbSg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d%2F&expires=1782868301/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d/87.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Toronto Maple Leafs vs Montreal Canadiens | June 30 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=5s08KLpC08GmRiObbTPgGdQfojeJF2ALpnuqWGc5X3o&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l%2F&expires=1782856569/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l/92.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=H-2kO6wq24TxFTBb92MgUBoEUTyMEYFwCn7T12mHCUI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l%2F&expires=1782868307/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l/92.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Toronto Maple Leafs vs Montreal Canadiens | June 30 2026 | 4:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=1D4FhdUt3P4oEJRbtvbS-o927MNYpOSk7Bnv2hZOM1w&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH8vdwKJvon5owE81CQLxyt%2F&expires=1782856576/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH8vdwKJvon5owE81CQLxyt/83.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=14TbwmyTT1l-pNhjRAzmfQn6EOLyiJtqA-s4RYUUyy0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH8vdwKJvon5owE81CQLxyt%2F&expires=1782868313/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH8vdwKJvon5owE81CQLxyt/83.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Toronto Maple Leafs vs Montreal Canadiens | June 30 2026 | 4:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://edge2caster.pro/hls/uyopzarf50.m3u8?st=BPPTZXBKxNxcwJie5Lu3-lNtuMWELvpHoViG9kjcPvw&e=1782852982
+https://edge2caster.pro/hls/uyopzarf50.m3u8?st=hf6O8yKD9LLWHCFMGBuKceaKj83uLTp10YYDoNbzXlQ&e=1782864720
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Edmonton Oilers | June 30 2026 | 5:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=k2kTMNTMkemhPmidFgklIMj_1TkwDsg6DgxyreTx3i4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9%2F&expires=1782856592/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9/98.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=WQ2MqiCHPI5D17dXs016rySmOwwm_XcZ_TQcC2owJL0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9%2F&expires=1782868329/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEBq9y1XrFWWHFSmQ_geFL9/98.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Edmonton Oilers | June 30 2026 | 5:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=36QjHzoq-GKYBdSRcEXc5nEt7_N1dHIk5V_kwK8UDFM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH%2F&expires=1782856598/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH/90.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=q3rrfV8S_oC6KB8UWuTGxRHO8HoywSy8JoY4i_AwVxQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH%2F&expires=1782868335/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH/90.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Edmonton Oilers | June 30 2026 | 5:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=lUEaOMvWKkm_fninvNuDgWkrMku7mTTVkbGwPKC29To&e=1782853004
+https://edge2caster.pro/hls/hjksgdfauzy51.m3u8?st=zY71VQw8R3690pLnT3Yue6t1g_GLBej9ss1lHXNmsxI&e=1782864741
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Winnipeg Jets vs Edmonton Oilers | June 30 2026 | 5:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.pro/US/NHL2/index.m3u8?st=UPuivu3KmrH19O9tQ-CwNg&amp;e=1782853011
+https://instreams.pro/US/NHL2/index.m3u8?st=f-jfBqrAesfH3o_5hDd-QQ&amp;e=1782864749
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Los Angeles Kings | June 30 2026 | 6:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=DrvnmGrpCQtmV2wvBD0PPWAvGNx5L0WlerPUcEVrdPY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH9C1B1LYdxZv3QPXKN9R0E%2F&expires=1782856620/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH9C1B1LYdxZv3QPXKN9R0E/85.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=9KdLa4EPvh1Xl7pWiTq-y3tKRaejNwCEjyDJpbN-JCs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH9C1B1LYdxZv3QPXKN9R0E%2F&expires=1782868357/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH9C1B1LYdxZv3QPXKN9R0E/85.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Los Angeles Kings | June 30 2026 | 6:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=AsmffbjONWGfnyW9_mktKClKcX8TEFdTAvvKbj8KCnE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH%2F&expires=1782856626/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH/84.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=DRqNOZ8NQhTst29mZ-PchP_N1sWeq2zZ1c2roaYQV5E&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH%2F&expires=1782868363/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH/84.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Los Angeles Kings | June 30 2026 | 6:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=BKn5Rh2Dhip8yDjUB2x21Dn1AYSgv4FyTadTgCcfLb4&e=1782853033
+https://edgestreams.pro/hls/hjksgdfauzy51.m3u8?st=BrhqIKvOdl6t6jECljry5kpQfXXidDhRwWDe65Z9bCg&e=1782864770
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vegas Golden Knights vs Los Angeles Kings | June 30 2026 | 6:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://instreams.pro/US/NHL3/index.m3u8?st=ClZRycivlYgHGr37omvinw&amp;e=1782853039
+https://instreams.pro/US/NHL3/index.m3u8?st=9vx6s-0dSJaNskdcjXKOLw&amp;e=1782864776
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vancouver Canucks vs Seattle Kraken | June 30 2026 | 7:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=eVHMDWv3ApcSM_smmo6uJRKlXsp2nf_3gXuN8xS5xa4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHmcwn4fVgl1ad2DyVMp0Lv%2F&expires=1782856648/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHmcwn4fVgl1ad2DyVMp0Lv/97.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=EAdgjY3er5Nf42Ph7uEA9ozWUiRlq8o6_N569yANMi0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHmcwn4fVgl1ad2DyVMp0Lv%2F&expires=1782868385/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHmcwn4fVgl1ad2DyVMp0Lv/97.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vancouver Canucks vs Seattle Kraken | June 30 2026 | 7:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://webcast-origin.b-cdn.net/bcdn_token=ajR1VqF7ZD_gzP0H00zQ4pFXQxXCzh0mhU3tMDdr9S8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH%2F&expires=1782856654/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH/84.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=UTEc54cxnhMeaQS75uQzBichX58ACAfmk9H8dFGDTF8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH%2F&expires=1782868392/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH/84.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vancouver Canucks vs Seattle Kraken | June 30 2026 | 7:00 PM (HOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://mainstreams.pro/hls/sdezqfza55.m3u8?st=fdQvSukn6m1Kf1qcBAxg1MPX2SctyL2jEpZHQ_5YMCI&e=1782853060
+https://edge2caster.pro/hls/sdezqfza55.m3u8?st=frqxfGE1teCAEd7jTOo3Un4Nk4lHZAqAvVuSYAAIBuU&e=1782864798
 
 #EXTINF:-1 tvg-id="NHL.Hockey.us" tvg-logo="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" group-title="NHL EN VIVO",[NHL] Vancouver Canucks vs Seattle Kraken | June 30 2026 | 7:00 PM (AWAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-origin=https://slapstreams.com
-https://edge2caster.pro/hls/sdezqfza55.m3u8?st=GmP3OR8rInVozwPlSHKdZeDVGOQZ5m6Evec0XLFlLCU&e=1782853066
+https://edge2caster.pro/hls/sdezqfza55.m3u8?st=Hk8cRxwAAWmCl1usL7ZjH5prsr0zzXNUpORU8dVvP6I&e=1782864804
