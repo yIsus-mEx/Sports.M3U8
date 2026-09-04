@@ -6,206 +6,26 @@
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 https://tedesco.formaturamaxi.com.br/ncaa.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/CxdTn81x/Indy-Logo.png" group-title="MotorSport EN VIVO",[MotorSport] Indycar Series - Free Practice | Sep 04 02:00 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://tedesco.formaturamaxi.com.br/fs1.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" group-title="MotorSport EN VIVO",[MotorSport] WoO Sprint Cars - Race | Sep 04 04:30 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/flo.m3u8
-
 #EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/fyJQkYFY/Motor.png" tvg-logo="https://i.postimg.cc/XvMHNByM/Nascar-logo.png" group-title="MotorSport EN VIVO",[MotorSport] Interstate High Limit - Night 2 | Sep 04 06:00 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 https://admin2.formaturamaxi.com.br/flo2.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Detroit Tigers vs Cleveland Guardians | Sep 04 11:10 AM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/m2B50qH1/UFC.png" tvg-logo="https://i.postimg.cc/m2B50qH1/UFC.png" group-title="Fighting EN VIVO",[Fighting] Ruiz Jr vs Knyba | Sep 04 06:00 PM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb.m3u8
+https://admin2.formaturamaxi.com.br/ppv.m3u8
 
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Detroit Tigers vs Cleveland Guardians | Sep 04 04:15 PM
+#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/m2B50qH1/UFC.png" tvg-logo="https://i.postimg.cc/m2B50qH1/UFC.png" group-title="Fighting EN VIVO",[Fighting] Taylor vs. Pili: Once Upon a Time | Sep 05 09:00 AM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb2.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Milwaukee Brewers vs Cincinnati Reds | Sep 04 03:10 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb3.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Atlanta Braves vs Philadelphia Phillies | Sep 04 03:40 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb4.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Los Angeles Angels vs Pittsburgh Pirates | Sep 04 03:45 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb5.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Boston Red Sox vs Baltimore Orioles | Sep 04 04:05 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb6.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Chicago Cubs vs Miami Marlins | Sep 04 04:10 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb8.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Minnesota Twins vs Chicago White Sox | Sep 04 04:40 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb9.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Minnesota Twins vs Chicago White Sox | Sep 04 04:40 PM [ESP 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://tedesco.formaturamaxi.com.br/mlb9.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Tampa Bay Rays vs Texas Rangers | Sep 04 05:05 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb10.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Arizona Diamondbacks vs Houston Astros | Sep 04 05:10 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb11.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Toronto Blue Jays vs Kansas City Royals | Sep 04 05:10 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb12.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] St. Louis Cardinals vs Colorado Rockies | Sep 04 05:40 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb13.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] New York Yankees vs San Diego Padres | Sep 04 06:40 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb14.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Washington Nationals vs Los Angeles Dodgers | Sep 04 07:10 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb15.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/J0W27YYg/MLB.png" tvg-logo="https://i.postimg.cc/J0W27YYg/MLB.png" group-title="MLB EN VIVO",[MLB] Athletics vs Seattle Mariners | Sep 04 07:10 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/mlb16.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" tvg-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] NHL Draft 2026 | Jun 27 11:00 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/nhl.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" tvg-logo="https://i.postimg.cc/nVYdYkPj/NHL.png" group-title="NHL EN VIVO",[NHL] NHL Draft 2026 | Jun 27 11:00 AM [ESP 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://tedesco.formaturamaxi.com.br/nhl.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Galatasaray vs İstanbul Başakşehir | Sep 04 10:00 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://tedesco.formaturamaxi.com.br/bein.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Lyon vs Auxerre | Sep 04 10:00 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Lyon vs Auxerre | Sep 04 10:00 AM [ESP 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/bein.m3u8
+https://admin2.formaturamaxi.com.br/ppv.m3u8
 
 #EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Al Shabab vs Al Hilal | Sep 04 11:00 AM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 https://tedesco.formaturamaxi.com.br/fsp.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Stuttgart vs Koln | Sep 04 11:30 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://tedesco.formaturamaxi.com.br/one.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Genoa vs Como | Sep 04 11:45 AM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://tedesco.formaturamaxi.com.br/genoa.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Liverpool vs Ipswich | Sep 04 12:00 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/main.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Liverpool vs Ipswich | Sep 04 12:00 PM [ESP 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/usa.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Real Betis vs Real Madrid | Sep 04 12:00 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/dep.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] PSG vs Monaco | Sep 04 12:05 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] PSG vs Monaco | Sep 04 12:05 PM [ESP 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/bein.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] New York City vs Nashville | Sep 04 04:30 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/pfc1.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" group-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" tvg-logo="https://i.postimg.cc/vByr4RMW/FIFA.png" group-title="Soccer EN VIVO",[Soccer] Juárez vs Pachuca/a> | Sep 04 08:00 PM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-https://admin2.formaturamaxi.com.br/fana.m3u8
